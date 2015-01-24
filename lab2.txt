@@ -1,0 +1,2035 @@
+18: 2 3 3
+raj
+jhala
+iet
+rajjhala-Inspiron-5520
+1c1
+< ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDOXBT5qcipZ6qldBTt6c2sTuir4pHjfwztieQZ/So01oSGA1xZ8TsSUu29oQ+ru4vvQgrHrVX/MqQMJq335tuC/YYeI9bBLyLIXbrfOKAJSC4qvPDgJbvVExjWo3YNsct6i5MWrn+Riw0uusEbQUuAFSkYjAdR2YX7/pjDBJckINkQ+pIlUWdT86/xHqOsk/HO+MSyLBCsH5L1ONJCd4ujE7i19VWtyw9RTPUzkbelQEetJDJfu8FodvUiEOdiRE+h0UXaIFwXFGCEg3QiFi3L+SV+LzevKOul60gLlrYOJknGkIzTjczN0AZzJxbW2vZBa0PwrDLxmwaQ5w5cXFhT 
+.patel@iet.ahduni.edu.in
+---
+> hello raj jhala iet
+4	./Documents
+4	./.dbus
+8	./.cache/update-manager-core
+20	./.cache/webkit/icondatabase
+24	./.cache/webkit
+68	./.cache/oneconf/bdfa1abb69a35ef1c13ec39054bd3cf5
+72	./.cache/oneconf
+4	./.cache/evolution/calendar/trash
+8	./.cache/evolution/calendar
+4	./.cache/evolution/sources/trash
+8	./.cache/evolution/sources
+4	./.cache/evolution/memos/trash
+8	./.cache/evolution/memos
+4	./.cache/evolution/tasks/trash
+8	./.cache/evolution/tasks
+4	./.cache/evolution/mail/trash
+8	./.cache/evolution/mail
+4	./.cache/evolution/addressbook/trash
+8	./.cache/evolution/addressbook
+52	./.cache/evolution
+4	./.cache/unity
+512	./.cache/upstart
+704	./.cache/wallpaper
+28	./.cache/sso
+4	./.cache/media-art
+4	./.cache/dconf
+12	./.cache/fontconfig
+4	./.cache/signon-ui/cookies
+8	./.cache/signon-ui
+8	./.cache/logrotate
+116	./.cache/compizconfig-1
+20	./.cache/ibus/bus
+24	./.cache/ibus
+516	./.cache/gstreamer-1.0
+8	./.cache/mozilla/firefox/eht6phby.default/startupCache
+4	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600/entries
+4	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600/doomed
+12	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600
+4072	./.cache/mozilla/firefox/eht6phby.default/safebrowsing
+4	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296/entries
+4	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296/doomed
+12	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296
+260	./.cache/mozilla/firefox/eht6phby.default/OfflineCache
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/6/15
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/6/87
+84	./.cache/mozilla/firefox/eht6phby.default/Cache/6/73
+76	./.cache/mozilla/firefox/eht6phby.default/Cache/6/C7
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/6/97
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/6/10
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/6/AF
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/6/FC
+228	./.cache/mozilla/firefox/eht6phby.default/Cache/6/C3
+672	./.cache/mozilla/firefox/eht6phby.default/Cache/6
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/2/9E
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/2/59
+80	./.cache/mozilla/firefox/eht6phby.default/Cache/2/3D
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/2/93
+116	./.cache/mozilla/firefox/eht6phby.default/Cache/2/98
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/2/7C
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/2/00
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/2/F8
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/2/6C
+488	./.cache/mozilla/firefox/eht6phby.default/Cache/2
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/3/87
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/3/21
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/3/5B
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/3/6F
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/3/70
+364	./.cache/mozilla/firefox/eht6phby.default/Cache/3/CB
+112	./.cache/mozilla/firefox/eht6phby.default/Cache/3/B7
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/3/E8
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/3/66
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/3/60
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/3/1E
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/3/5E
+832	./.cache/mozilla/firefox/eht6phby.default/Cache/3
+44	./.cache/mozilla/firefox/eht6phby.default/Cache/A/B5
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/A/DE
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/A/67
+128	./.cache/mozilla/firefox/eht6phby.default/Cache/A/E8
+112	./.cache/mozilla/firefox/eht6phby.default/Cache/A/C3
+364	./.cache/mozilla/firefox/eht6phby.default/Cache/A
+88	./.cache/mozilla/firefox/eht6phby.default/Cache/E/DE
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/E/3E
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/E/2A
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/E/53
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/E/27
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/E/4C
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/E/94
+76	./.cache/mozilla/firefox/eht6phby.default/Cache/E/4D
+408	./.cache/mozilla/firefox/eht6phby.default/Cache/E
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/8/A4
+52	./.cache/mozilla/firefox/eht6phby.default/Cache/8/F9
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/8/04
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/8/A1
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/8/02
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/8/3D
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/8/3E
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/8/08
+112	./.cache/mozilla/firefox/eht6phby.default/Cache/8/C9
+52	./.cache/mozilla/firefox/eht6phby.default/Cache/8/FA
+476	./.cache/mozilla/firefox/eht6phby.default/Cache/8
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/5/3B
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/5/D4
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/5/90
+196	./.cache/mozilla/firefox/eht6phby.default/Cache/5/67
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/5/3D
+148	./.cache/mozilla/firefox/eht6phby.default/Cache/5/29
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/5/C3
+52	./.cache/mozilla/firefox/eht6phby.default/Cache/5/48
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/5/5E
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/5/A7
+660	./.cache/mozilla/firefox/eht6phby.default/Cache/5
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/D/E5
+100	./.cache/mozilla/firefox/eht6phby.default/Cache/D/44
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/D/CB
+100	./.cache/mozilla/firefox/eht6phby.default/Cache/D/06
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/D/86
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/D/4F
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/D/E6
+424	./.cache/mozilla/firefox/eht6phby.default/Cache/D
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/C/99
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/C/21
+124	./.cache/mozilla/firefox/eht6phby.default/Cache/C/A6
+52	./.cache/mozilla/firefox/eht6phby.default/Cache/C/68
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/C/3E
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/C/4A
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/C/95
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/C/BA
+84	./.cache/mozilla/firefox/eht6phby.default/Cache/C/F8
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/C/BC
+516	./.cache/mozilla/firefox/eht6phby.default/Cache/C
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/0/8B
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/0/72
+88	./.cache/mozilla/firefox/eht6phby.default/Cache/0/3E
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/0/FE
+44	./.cache/mozilla/firefox/eht6phby.default/Cache/0/7C
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/0/8E
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/0/9F
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/0/09
+352	./.cache/mozilla/firefox/eht6phby.default/Cache/0
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/7/7A
+76	./.cache/mozilla/firefox/eht6phby.default/Cache/7/3B
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/7/F1
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/7/1F
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/7/BE
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/7/10
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/7/03
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/7/66
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/7/5F
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/7/DD
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/7/8D
+96	./.cache/mozilla/firefox/eht6phby.default/Cache/7/23
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/7/D3
+608	./.cache/mozilla/firefox/eht6phby.default/Cache/7
+72	./.cache/mozilla/firefox/eht6phby.default/Cache/1/3B
+228	./.cache/mozilla/firefox/eht6phby.default/Cache/1/AC
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/1/D4
+44	./.cache/mozilla/firefox/eht6phby.default/Cache/1/C7
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/1/9E
+124	./.cache/mozilla/firefox/eht6phby.default/Cache/1/1A
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/1/D0
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/1/85
+76	./.cache/mozilla/firefox/eht6phby.default/Cache/1/39
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/1/48
+752	./.cache/mozilla/firefox/eht6phby.default/Cache/1
+140	./.cache/mozilla/firefox/eht6phby.default/Cache/F/FF
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/F/21
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/F/C7
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/F/F9
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/F/C4
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/F/35
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/F/55
+412	./.cache/mozilla/firefox/eht6phby.default/Cache/F
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/4/30
+48	./.cache/mozilla/firefox/eht6phby.default/Cache/4/F1
+76	./.cache/mozilla/firefox/eht6phby.default/Cache/4/C7
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/4/85
+24	./.cache/mozilla/firefox/eht6phby.default/Cache/4/29
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/4/50
+32	./.cache/mozilla/firefox/eht6phby.default/Cache/4/25
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/4/2F
+52	./.cache/mozilla/firefox/eht6phby.default/Cache/4/33
+456	./.cache/mozilla/firefox/eht6phby.default/Cache/4
+72	./.cache/mozilla/firefox/eht6phby.default/Cache/B/43
+108	./.cache/mozilla/firefox/eht6phby.default/Cache/B/A3
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/B/A5
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/B/CC
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/B/29
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/B/0D
+308	./.cache/mozilla/firefox/eht6phby.default/Cache/B
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/9/7A
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/9/AC
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/9/D4
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/9/8C
+68	./.cache/mozilla/firefox/eht6phby.default/Cache/9/70
+36	./.cache/mozilla/firefox/eht6phby.default/Cache/9/D0
+96	./.cache/mozilla/firefox/eht6phby.default/Cache/9/CB
+392	./.cache/mozilla/firefox/eht6phby.default/Cache/9/E1
+380	./.cache/mozilla/firefox/eht6phby.default/Cache/9/06
+28	./.cache/mozilla/firefox/eht6phby.default/Cache/9/C5
+72	./.cache/mozilla/firefox/eht6phby.default/Cache/9/34
+40	./.cache/mozilla/firefox/eht6phby.default/Cache/9/71
+64	./.cache/mozilla/firefox/eht6phby.default/Cache/9/76
+56	./.cache/mozilla/firefox/eht6phby.default/Cache/9/E9
+1384	./.cache/mozilla/firefox/eht6phby.default/Cache/9
+21408	./.cache/mozilla/firefox/eht6phby.default/Cache
+5164	./.cache/mozilla/firefox/eht6phby.default/thumbnails
+30944	./.cache/mozilla/firefox/eht6phby.default
+30948	./.cache/mozilla/firefox
+30952	./.cache/mozilla
+4	./.cache/thumbnails/original
+28	./.cache/thumbnails/fail/gnome-thumbnail-factory
+32	./.cache/thumbnails/fail
+596	./.cache/thumbnails/large
+4	./.cache/thumbnails/xlarge
+872	./.cache/thumbnails/normal
+1512	./.cache/thumbnails
+34572	./.cache
+63288	./Downloads
+8	./.gconf/apps/nm-applet
+8	./.gconf/apps/gnome-terminal/profiles/Default
+12	./.gconf/apps/gnome-terminal/profiles
+16	./.gconf/apps/gnome-terminal
+28	./.gconf/apps
+32	./.gconf
+4	./.gvfs
+23024	./Videos
+4	./Templates
+8	./Git/.git/logs/refs/heads
+12	./Git/.git/logs/refs
+20	./Git/.git/logs
+8	./Git/.git/refs/heads
+4	./Git/.git/refs/tags
+16	./Git/.git/refs
+4	./Git/.git/objects/pack
+40	./Git/.git/objects/1a
+40	./Git/.git/objects/bd
+8	./Git/.git/objects/32
+8	./Git/.git/objects/e6
+8	./Git/.git/objects/cd
+8	./Git/.git/objects/52
+4	./Git/.git/objects/info
+124	./Git/.git/objects
+4	./Git/.git/branches
+44	./Git/.git/hooks
+8	./Git/.git/info
+240	./Git/.git
+4	./Git/Git/.git/refs/heads
+4	./Git/Git/.git/refs/tags
+12	./Git/Git/.git/refs
+4	./Git/Git/.git/objects/pack
+4	./Git/Git/.git/objects/info
+12	./Git/Git/.git/objects
+4	./Git/Git/.git/branches
+44	./Git/Git/.git/hooks
+8	./Git/Git/.git/info
+96	./Git/Git/.git
+100	./Git/Git
+380	./Git
+40	./.compiz/session
+44	./.compiz
+8	./.local/share/icc
+44	./.local/share/ubuntu-amazon-default/GPUCache
+4	./.local/share/ubuntu-amazon-default/Local Storage
+4788	./.local/share/ubuntu-amazon-default/Cache
+4860	./.local/share/ubuntu-amazon-default
+4	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates/.externalToolBuilders
+28	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates/.launches
+40	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates
+44	./.local/share/Trash/files/hadoop-1.2.1
+4	./.local/share/Trash/files/jdk-7u67-linux-x64.2
+4	./.local/share/Trash/files/jdk-7u67-linux-x64
+118332	./.local/share/Trash/files
+24	./.local/share/Trash/info
+118360	./.local/share/Trash
+44	./.local/share/FacebookMessengerfacebookcom/GPUCache
+16	./.local/share/FacebookMessengerfacebookcom/Local Storage
+2800	./.local/share/FacebookMessengerfacebookcom/Cache
+2880	./.local/share/FacebookMessengerfacebookcom
+76	./.local/share/gvfs-metadata
+4	./.local/share/evolution/calendar/trash
+8	./.local/share/evolution/calendar/system
+16	./.local/share/evolution/calendar
+4	./.local/share/evolution/memos/trash
+8	./.local/share/evolution/memos
+4	./.local/share/evolution/tasks/trash
+8	./.local/share/evolution/tasks/system
+16	./.local/share/evolution/tasks
+4	./.local/share/evolution/mail/trash
+8	./.local/share/evolution/mail
+4	./.local/share/evolution/addressbook/trash
+8	./.local/share/evolution/addressbook
+60	./.local/share/evolution
+44	./.local/share/YouTubeyoutubecom/GPUCache
+4	./.local/share/YouTubeyoutubecom/Local Storage
+1128	./.local/share/YouTubeyoutubecom/Cache
+1200	./.local/share/YouTubeyoutubecom
+908	./.local/share/zeitgeist/fts.index
+3524	./.local/share/zeitgeist
+4	./.local/share/applications
+12	./.local/share/keyrings
+20	./.local/share/unity-webapps
+8	./.local/share/telepathy/mission-control
+12	./.local/share/telepathy
+4	./.local/share/totem
+4	./.local/share/unity-settings-daemon
+4	./.local/share/nautilus/scripts
+8	./.local/share/nautilus
+4	./.local/share/sounds
+131064	./.local/share
+131068	./.local
+32	./.pki/nssdb
+36	./.pki
+4	./Music
+8	./.config/update-notifier
+4	./.config/evolution/sources
+8	./.config/evolution
+4	./.config/enchant
+8	./.config/compiz-1/compizconfig
+12	./.config/compiz-1
+72	./.config/pulse
+4	./.config/eog
+8	./.config/gtk-3.0
+36	./.config/libreoffice/4/user/psprint
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/extensions/shared/registry
+48	./.config/libreoffice/4/user/extensions/shared
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/extensions/tmp/registry
+4	./.config/libreoffice/4/user/extensions/tmp/extensions
+48	./.config/libreoffice/4/user/extensions/tmp
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/extensions/bundled/registry
+48	./.config/libreoffice/4/user/extensions/bundled
+152	./.config/libreoffice/4/user/extensions
+1016	./.config/libreoffice/4/user/database/biblio
+1028	./.config/libreoffice/4/user/database
+16	./.config/libreoffice/4/user/basic/Standard
+28	./.config/libreoffice/4/user/basic
+8	./.config/libreoffice/4/user/autotext
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/statusbar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/toolbar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/menubar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images
+24	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/statusbar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/toolbar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/menubar
+4	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images/Bitmaps
+8	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images
+24	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress
+52	./.config/libreoffice/4/user/config/soffice.cfg/modules
+56	./.config/libreoffice/4/user/config/soffice.cfg
+464	./.config/libreoffice/4/user/config
+4	./.config/libreoffice/4/user/backup
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40	./.config/libreoffice/4/user/uno_packages/cache/registry
+4	./.config/libreoffice/4/user/uno_packages/cache/uno_packages
+52	./.config/libreoffice/4/user/uno_packages/cache
+56	./.config/libreoffice/4/user/uno_packages
+12	./.config/libreoffice/4/user/gallery
+4	./.config/libreoffice/4/user/autocorr
+1828	./.config/libreoffice/4/user
+1832	./.config/libreoffice/4
+1836	./.config/libreoffice
+4	./.config/upstart
+12	./.config/gedit
+8	./.config/gtk-2.0
+36	./.config/signond
+16	./.config/dconf
+4	./.config/gnome-session/saved-session
+8	./.config/gnome-session
+8	./.config/ubuntu-ui-toolkit
+8	./.config/gnome-control-center/backgrounds
+12	./.config/gnome-control-center
+20	./.config/libaccounts-glib
+8	./.config/totem
+8	./.config/ibus/bus
+12	./.config/ibus
+20	./.config/nautilus
+2132	./.config
+1548	./Pictures/Wallpapers
+1552	./Pictures
+4	./.mozilla/extensions
+4	./.mozilla/firefox/eht6phby.default/extensions
+4	./.mozilla/firefox/eht6phby.default/minidumps
+28	./.mozilla/firefox/eht6phby.default/bookmarkbackups
+8	./.mozilla/firefox/eht6phby.default/webapps
+8	./.mozilla/firefox/eht6phby.default/healthreport
+4	./.mozilla/firefox/eht6phby.default/crashes/events
+12	./.mozilla/firefox/eht6phby.default/crashes
+17632	./.mozilla/firefox/eht6phby.default
+8	./.mozilla/firefox/Crash Reports
+17648	./.mozilla/firefox
+17656	./.mozilla
+204444	./Desktop
+4	./Public
+4	./hola
+8	./.ssh
+482044	.
+4.0K	./Documents
+4.0K	./.dbus
+8.0K	./.cache/update-manager-core
+20K	./.cache/webkit/icondatabase
+24K	./.cache/webkit
+68K	./.cache/oneconf/bdfa1abb69a35ef1c13ec39054bd3cf5
+72K	./.cache/oneconf
+4.0K	./.cache/evolution/calendar/trash
+8.0K	./.cache/evolution/calendar
+4.0K	./.cache/evolution/sources/trash
+8.0K	./.cache/evolution/sources
+4.0K	./.cache/evolution/memos/trash
+8.0K	./.cache/evolution/memos
+4.0K	./.cache/evolution/tasks/trash
+8.0K	./.cache/evolution/tasks
+4.0K	./.cache/evolution/mail/trash
+8.0K	./.cache/evolution/mail
+4.0K	./.cache/evolution/addressbook/trash
+8.0K	./.cache/evolution/addressbook
+52K	./.cache/evolution
+4.0K	./.cache/unity
+512K	./.cache/upstart
+704K	./.cache/wallpaper
+28K	./.cache/sso
+4.0K	./.cache/media-art
+4.0K	./.cache/dconf
+12K	./.cache/fontconfig
+4.0K	./.cache/signon-ui/cookies
+8.0K	./.cache/signon-ui
+8.0K	./.cache/logrotate
+116K	./.cache/compizconfig-1
+20K	./.cache/ibus/bus
+24K	./.cache/ibus
+516K	./.cache/gstreamer-1.0
+8.0K	./.cache/mozilla/firefox/eht6phby.default/startupCache
+4.0K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600/entries
+4.0K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600/doomed
+12K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash942007600
+4.0M	./.cache/mozilla/firefox/eht6phby.default/safebrowsing
+4.0K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296/entries
+4.0K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296/doomed
+12K	./.cache/mozilla/firefox/eht6phby.default/cache2.Trash70871296
+260K	./.cache/mozilla/firefox/eht6phby.default/OfflineCache
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/15
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/87
+84K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/73
+76K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/C7
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/97
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/10
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/AF
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/FC
+228K	./.cache/mozilla/firefox/eht6phby.default/Cache/6/C3
+672K	./.cache/mozilla/firefox/eht6phby.default/Cache/6
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/9E
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/59
+80K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/3D
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/93
+116K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/98
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/7C
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/00
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/F8
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/2/6C
+488K	./.cache/mozilla/firefox/eht6phby.default/Cache/2
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/87
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/21
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/5B
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/6F
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/70
+364K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/CB
+112K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/B7
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/E8
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/66
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/60
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/1E
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/3/5E
+832K	./.cache/mozilla/firefox/eht6phby.default/Cache/3
+44K	./.cache/mozilla/firefox/eht6phby.default/Cache/A/B5
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/A/DE
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/A/67
+128K	./.cache/mozilla/firefox/eht6phby.default/Cache/A/E8
+112K	./.cache/mozilla/firefox/eht6phby.default/Cache/A/C3
+364K	./.cache/mozilla/firefox/eht6phby.default/Cache/A
+88K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/DE
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/3E
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/2A
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/53
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/27
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/4C
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/94
+76K	./.cache/mozilla/firefox/eht6phby.default/Cache/E/4D
+408K	./.cache/mozilla/firefox/eht6phby.default/Cache/E
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/A4
+52K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/F9
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/04
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/A1
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/02
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/3D
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/3E
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/08
+112K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/C9
+52K	./.cache/mozilla/firefox/eht6phby.default/Cache/8/FA
+476K	./.cache/mozilla/firefox/eht6phby.default/Cache/8
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/3B
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/D4
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/90
+196K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/67
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/3D
+148K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/29
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/C3
+52K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/48
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/5E
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/5/A7
+660K	./.cache/mozilla/firefox/eht6phby.default/Cache/5
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/E5
+100K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/44
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/CB
+100K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/06
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/86
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/4F
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/D/E6
+424K	./.cache/mozilla/firefox/eht6phby.default/Cache/D
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/99
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/21
+124K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/A6
+52K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/68
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/3E
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/4A
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/95
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/BA
+84K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/F8
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/C/BC
+516K	./.cache/mozilla/firefox/eht6phby.default/Cache/C
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/8B
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/72
+88K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/3E
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/FE
+44K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/7C
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/8E
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/9F
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/0/09
+352K	./.cache/mozilla/firefox/eht6phby.default/Cache/0
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/7A
+76K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/3B
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/F1
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/1F
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/BE
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/10
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/03
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/66
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/5F
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/DD
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/8D
+96K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/23
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/7/D3
+608K	./.cache/mozilla/firefox/eht6phby.default/Cache/7
+72K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/3B
+228K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/AC
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/D4
+44K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/C7
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/9E
+124K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/1A
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/D0
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/85
+76K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/39
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/1/48
+752K	./.cache/mozilla/firefox/eht6phby.default/Cache/1
+140K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/FF
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/21
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/C7
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/F9
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/C4
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/35
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/F/55
+412K	./.cache/mozilla/firefox/eht6phby.default/Cache/F
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/30
+48K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/F1
+76K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/C7
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/85
+24K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/29
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/50
+32K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/25
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/2F
+52K	./.cache/mozilla/firefox/eht6phby.default/Cache/4/33
+456K	./.cache/mozilla/firefox/eht6phby.default/Cache/4
+72K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/43
+108K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/A3
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/A5
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/CC
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/29
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/B/0D
+308K	./.cache/mozilla/firefox/eht6phby.default/Cache/B
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/7A
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/AC
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/D4
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/8C
+68K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/70
+36K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/D0
+96K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/CB
+392K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/E1
+380K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/06
+28K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/C5
+72K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/34
+40K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/71
+64K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/76
+56K	./.cache/mozilla/firefox/eht6phby.default/Cache/9/E9
+1.4M	./.cache/mozilla/firefox/eht6phby.default/Cache/9
+21M	./.cache/mozilla/firefox/eht6phby.default/Cache
+5.1M	./.cache/mozilla/firefox/eht6phby.default/thumbnails
+31M	./.cache/mozilla/firefox/eht6phby.default
+31M	./.cache/mozilla/firefox
+31M	./.cache/mozilla
+4.0K	./.cache/thumbnails/original
+28K	./.cache/thumbnails/fail/gnome-thumbnail-factory
+32K	./.cache/thumbnails/fail
+596K	./.cache/thumbnails/large
+4.0K	./.cache/thumbnails/xlarge
+872K	./.cache/thumbnails/normal
+1.5M	./.cache/thumbnails
+34M	./.cache
+62M	./Downloads
+8.0K	./.gconf/apps/nm-applet
+8.0K	./.gconf/apps/gnome-terminal/profiles/Default
+12K	./.gconf/apps/gnome-terminal/profiles
+16K	./.gconf/apps/gnome-terminal
+28K	./.gconf/apps
+32K	./.gconf
+4.0K	./.gvfs
+23M	./Videos
+4.0K	./Templates
+8.0K	./Git/.git/logs/refs/heads
+12K	./Git/.git/logs/refs
+20K	./Git/.git/logs
+8.0K	./Git/.git/refs/heads
+4.0K	./Git/.git/refs/tags
+16K	./Git/.git/refs
+4.0K	./Git/.git/objects/pack
+40K	./Git/.git/objects/1a
+40K	./Git/.git/objects/bd
+8.0K	./Git/.git/objects/32
+8.0K	./Git/.git/objects/e6
+8.0K	./Git/.git/objects/cd
+8.0K	./Git/.git/objects/52
+4.0K	./Git/.git/objects/info
+124K	./Git/.git/objects
+4.0K	./Git/.git/branches
+44K	./Git/.git/hooks
+8.0K	./Git/.git/info
+240K	./Git/.git
+4.0K	./Git/Git/.git/refs/heads
+4.0K	./Git/Git/.git/refs/tags
+12K	./Git/Git/.git/refs
+4.0K	./Git/Git/.git/objects/pack
+4.0K	./Git/Git/.git/objects/info
+12K	./Git/Git/.git/objects
+4.0K	./Git/Git/.git/branches
+44K	./Git/Git/.git/hooks
+8.0K	./Git/Git/.git/info
+96K	./Git/Git/.git
+100K	./Git/Git
+380K	./Git
+40K	./.compiz/session
+44K	./.compiz
+8.0K	./.local/share/icc
+44K	./.local/share/ubuntu-amazon-default/GPUCache
+4.0K	./.local/share/ubuntu-amazon-default/Local Storage
+4.7M	./.local/share/ubuntu-amazon-default/Cache
+4.8M	./.local/share/ubuntu-amazon-default
+4.0K	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates/.externalToolBuilders
+28K	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates/.launches
+40K	./.local/share/Trash/files/hadoop-1.2.1/.eclipse.templates
+44K	./.local/share/Trash/files/hadoop-1.2.1
+4.0K	./.local/share/Trash/files/jdk-7u67-linux-x64.2
+4.0K	./.local/share/Trash/files/jdk-7u67-linux-x64
+116M	./.local/share/Trash/files
+24K	./.local/share/Trash/info
+116M	./.local/share/Trash
+44K	./.local/share/FacebookMessengerfacebookcom/GPUCache
+16K	./.local/share/FacebookMessengerfacebookcom/Local Storage
+2.8M	./.local/share/FacebookMessengerfacebookcom/Cache
+2.9M	./.local/share/FacebookMessengerfacebookcom
+76K	./.local/share/gvfs-metadata
+4.0K	./.local/share/evolution/calendar/trash
+8.0K	./.local/share/evolution/calendar/system
+16K	./.local/share/evolution/calendar
+4.0K	./.local/share/evolution/memos/trash
+8.0K	./.local/share/evolution/memos
+4.0K	./.local/share/evolution/tasks/trash
+8.0K	./.local/share/evolution/tasks/system
+16K	./.local/share/evolution/tasks
+4.0K	./.local/share/evolution/mail/trash
+8.0K	./.local/share/evolution/mail
+4.0K	./.local/share/evolution/addressbook/trash
+8.0K	./.local/share/evolution/addressbook
+60K	./.local/share/evolution
+44K	./.local/share/YouTubeyoutubecom/GPUCache
+4.0K	./.local/share/YouTubeyoutubecom/Local Storage
+1.2M	./.local/share/YouTubeyoutubecom/Cache
+1.2M	./.local/share/YouTubeyoutubecom
+908K	./.local/share/zeitgeist/fts.index
+3.5M	./.local/share/zeitgeist
+4.0K	./.local/share/applications
+12K	./.local/share/keyrings
+20K	./.local/share/unity-webapps
+8.0K	./.local/share/telepathy/mission-control
+12K	./.local/share/telepathy
+4.0K	./.local/share/totem
+4.0K	./.local/share/unity-settings-daemon
+4.0K	./.local/share/nautilus/scripts
+8.0K	./.local/share/nautilus
+4.0K	./.local/share/sounds
+128M	./.local/share
+128M	./.local
+32K	./.pki/nssdb
+36K	./.pki
+4.0K	./Music
+8.0K	./.config/update-notifier
+4.0K	./.config/evolution/sources
+8.0K	./.config/evolution
+4.0K	./.config/enchant
+8.0K	./.config/compiz-1/compizconfig
+12K	./.config/compiz-1
+72K	./.config/pulse
+4.0K	./.config/eog
+8.0K	./.config/gtk-3.0
+36K	./.config/libreoffice/4/user/psprint
+4.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/shared/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40K	./.config/libreoffice/4/user/extensions/shared/registry
+48K	./.config/libreoffice/4/user/extensions/shared
+4.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/tmp/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40K	./.config/libreoffice/4/user/extensions/tmp/registry
+4.0K	./.config/libreoffice/4/user/extensions/tmp/extensions
+48K	./.config/libreoffice/4/user/extensions/tmp
+4.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/extensions/bundled/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40K	./.config/libreoffice/4/user/extensions/bundled/registry
+48K	./.config/libreoffice/4/user/extensions/bundled
+152K	./.config/libreoffice/4/user/extensions
+1016K	./.config/libreoffice/4/user/database/biblio
+1.1M	./.config/libreoffice/4/user/database
+16K	./.config/libreoffice/4/user/basic/Standard
+28K	./.config/libreoffice/4/user/basic
+8.0K	./.config/libreoffice/4/user/autotext
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/statusbar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/toolbar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/menubar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images/Bitmaps
+8.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter/images
+24K	./.config/libreoffice/4/user/config/soffice.cfg/modules/swriter
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/statusbar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/toolbar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/menubar
+4.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images/Bitmaps
+8.0K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress/images
+24K	./.config/libreoffice/4/user/config/soffice.cfg/modules/simpress
+52K	./.config/libreoffice/4/user/config/soffice.cfg/modules
+56K	./.config/libreoffice/4/user/config/soffice.cfg
+464K	./.config/libreoffice/4/user/config
+4.0K	./.config/libreoffice/4/user/backup
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.sfwk.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.component.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.help.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.executable.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.bundle.PackageRegistryBackend
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.script.PackageRegistryBackend
+8.0K	./.config/libreoffice/4/user/uno_packages/cache/registry/com.sun.star.comp.deployment.configuration.PackageRegistryBackend
+40K	./.config/libreoffice/4/user/uno_packages/cache/registry
+4.0K	./.config/libreoffice/4/user/uno_packages/cache/uno_packages
+52K	./.config/libreoffice/4/user/uno_packages/cache
+56K	./.config/libreoffice/4/user/uno_packages
+12K	./.config/libreoffice/4/user/gallery
+4.0K	./.config/libreoffice/4/user/autocorr
+1.8M	./.config/libreoffice/4/user
+1.8M	./.config/libreoffice/4
+1.8M	./.config/libreoffice
+4.0K	./.config/upstart
+12K	./.config/gedit
+8.0K	./.config/gtk-2.0
+36K	./.config/signond
+16K	./.config/dconf
+4.0K	./.config/gnome-session/saved-session
+8.0K	./.config/gnome-session
+8.0K	./.config/ubuntu-ui-toolkit
+8.0K	./.config/gnome-control-center/backgrounds
+12K	./.config/gnome-control-center
+20K	./.config/libaccounts-glib
+8.0K	./.config/totem
+8.0K	./.config/ibus/bus
+12K	./.config/ibus
+20K	./.config/nautilus
+2.1M	./.config
+1.6M	./Pictures/Wallpapers
+1.6M	./Pictures
+4.0K	./.mozilla/extensions
+4.0K	./.mozilla/firefox/eht6phby.default/extensions
+4.0K	./.mozilla/firefox/eht6phby.default/minidumps
+28K	./.mozilla/firefox/eht6phby.default/bookmarkbackups
+8.0K	./.mozilla/firefox/eht6phby.default/webapps
+8.0K	./.mozilla/firefox/eht6phby.default/healthreport
+4.0K	./.mozilla/firefox/eht6phby.default/crashes/events
+12K	./.mozilla/firefox/eht6phby.default/crashes
+18M	./.mozilla/firefox/eht6phby.default
+8.0K	./.mozilla/firefox/Crash Reports
+18M	./.mozilla/firefox
+18M	./.mozilla
+200M	./Desktop
+4.0K	./Public
+4.0K	./hola
+8.0K	./.ssh
+471M	.
+Filesystem     1K-blocks    Used Available Use% Mounted on
+/dev/sda9       26883124 4616668  20877812  19% /
+none                   4       0         4   0% /sys/fs/cgroup
+udev             4013784       4   4013780   1% /dev
+tmpfs             804916    1148    803768   1% /run
+none                5120       0      5120   0% /run/lock
+none             4024564     156   4024408   1% /run/shm
+none              102400      40    102360   1% /run/user
+/dev/pts/10
+file dickhead differ: byte 7, line 1
+[?1049h[?1h=[1;24r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[2;1H[1m[34m~                                                                               [3;1H~                                                                               [4;1H~                                                                               [5;1H~                                                                               [6;1H~                                                                               [7;1H~                                                                               [8;1H~                                                                               [9;1H~                                                                               [10;1H~                                                                               [11;1H~                                                                               [12;1H~                                                                               [13;1H~                                                                               [14;1H~                                                                               [15;1H~                                                                               [16;1H~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[4;32HVIM - Vi IMproved[6;34Hversion 7.4.52[7;29Hby Bram Moolenaar et al.[8;13HModified by pkg-vim-maintainers@lists.alioth.debian.org[9;19HVim is open source and freely distributable[11;29HSponsor Vim development![12;18Htype  :help sponsor[34m<Enter>[m    for information [14;18Htype  :q[34m<Enter>[m               to exit         [15;18Htype  :help[34m<Enter>[m  or  [34m<F1>[m  for on-line help[16;18Htype  :help version7[34m<Enter>[m   for version info[18;26HRunning in Vi compatible mode[19;18Htype  :set nocp[34m<Enter>[m        for Vim defaults[20;18Htype  :help cp-default[34m<Enter>[m for info on this[1;1H[?12l[?25h[24;1H
+[?1l>[?1049lNAME     LINE         TIME             COMMENT
+rajjhala    :0           2015-01-23 14:26 (:0)
+rajjhala    pts/3        2015-01-23 14:26 (:0)
+rajjhala    pts/0        2015-01-23 14:44 (:0)
+rajjhala    pts/9        2015-01-23 15:50 (:0)
+rajjhala    pts/10       2015-01-23 16:28 (:0)
+rajjhala    :0           2015-01-23 14:26 (:0)
+rajjhala    pts/3        2015-01-23 14:26 (:0)
+rajjhala    pts/0        2015-01-23 14:44 (:0)
+rajjhala    pts/9        2015-01-23 15:50 (:0)
+rajjhala    pts/10       2015-01-23 16:28 (:0)
+rajan:
+rajjhala    pts/10       :0               Fri Jan 23 16:28   still logged in   
+rajjhala    pts/9        :0               Fri Jan 23 15:50   still logged in   
+rajjhala    pts/0        :0               Fri Jan 23 14:44   still logged in   
+rajjhala    pts/3        :0               Fri Jan 23 14:26   still logged in   
+rajjhala    :0           :0               Fri Jan 23 14:26   still logged in   
+reboot   system boot  3.13.0-32-generi Fri Jan 23 14:25 - 16:40  (02:14)    
+reboot   system boot  3.13.0-32-generi Fri Jan 23 14:02 - 14:03  (00:00)    
+rajjhala    pts/0        :0               Thu Jan 22 18:04 - crash  (19:58)    
+rajjhala    :0           :0               Thu Jan 22 12:58 - crash (1+01:04)   
+reboot   system boot  3.13.0-32-generi Thu Jan 22 12:58 - 14:03 (1+01:04)   
+rajjhala    pts/12       :0               Thu Jan 22 12:55 - 12:57  (00:01)    
+rajjhala    :0           :0               Thu Jan 22 12:55 - down   (00:02)    
+reboot   system boot  3.13.0-32-generi Thu Jan 22 12:55 - 12:57  (00:02)    
+rajjhala    pts/0        :0               Thu Jan 22 12:49 - down   (00:04)    
+rajjhala    pts/0        :0               Thu Jan 22 12:44 - 12:49  (00:04)    
+rajjhala    pts/13       :0               Thu Jan 22 12:10 - 12:44  (00:34)    
+rajjhala    :0           :0               Thu Jan 22 12:09 - down   (00:44)    
+reboot   system boot  3.13.0-32-generi Thu Jan 22 12:09 - 12:54  (00:44)    
+rajjhala    pts/0        :0               Wed Jan 21 22:55 - 00:52  (01:56)    
+rajjhala    pts/0        :0               Wed Jan 21 22:40 - 22:45  (00:04)    
+rajjhala    pts/0        :0               Wed Jan 21 22:18 - 22:37  (00:18)    
+rajjhala    pts/0        :0               Wed Jan 21 22:00 - 22:18  (00:17)    
+rajjhala    pts/3        :0               Wed Jan 21 21:08 - 21:08  (00:00)    
+rajjhala    pts/0        :0               Wed Jan 21 20:51 - 22:00  (01:09)    
+rajjhala    pts/0        :0               Wed Jan 21 19:05 - 20:44  (01:39)    
+rajjhala    :0           :0               Wed Jan 21 18:49 - down   (06:03)    
+reboot   system boot  3.13.0-32-generi Thu Jan 22 00:28 - 00:52  (00:24)    
+rajjhala    :0           :0               Tue Jan 20 21:09 - down   (00:04)    
+reboot   system boot  3.13.0-32-generi Wed Jan 21 02:38 - 21:14  (-5:-24)   
+rajjhala    pts/9        :0               Wed Jan 21 00:28 - 01:01  (00:32)    
+rajjhala    :0           :0               Wed Jan 21 00:27 - down   (00:33)    
+reboot   system boot  3.13.0-32-generi Wed Jan 21 00:27 - 01:01  (00:33)    
+rajjhala    pts/14       :0               Wed Jan 21 00:14 - down   (00:13)    
+rajjhala    pts/0        :0               Wed Jan 21 00:14 - down   (00:13)    
+guest-xe pts/13       :1               Wed Jan 21 00:10 - down   (00:16)    
+guest-xe pts/14       :1               Wed Jan 21 00:08 - 00:08  (00:00)    
+guest-xe :1           :1               Wed Jan 21 00:08 - down   (00:18)    
+rajjhala    pts/0        :0               Tue Jan 20 23:49 - 00:12  (00:23)    
+rajjhala    :0           :0               Tue Jan 20 23:37 - down   (00:49)    
+reboot   system boot  3.13.0-32-generi Tue Jan 20 23:37 - 00:27  (00:50)    
+reboot   system boot  3.13.0-32-generi Tue Jan 20 15:31 - 00:27  (08:55)    
+rajjhala    pts/1        :0               Tue Jan 20 15:14 - down   (00:15)    
+rajjhala    pts/1        :0               Tue Jan 20 15:12 - 15:13  (00:00)    
+rajjhala    pts/14       :0               Tue Jan 20 14:59 - 15:12  (00:13)    
+rajjhala    :0           :0               Tue Jan 20 14:58 - down   (00:31)    
+reboot   system boot  3.13.0-32-generi Tue Jan 20 14:58 - 15:30  (00:31)    
+rajjhala    pts/0        :0               Mon Jan 19 22:01 - 22:34  (00:33)    
+rajjhala    pts/0        :0               Mon Jan 19 21:24 - 21:56  (00:31)    
+rajjhala    pts/12       localhost        Mon Jan 19 21:17 - 21:24  (00:06)    
+rajjhala    pts/0        :0               Mon Jan 19 21:16 - 21:24  (00:08)    
+rajjhala    pts/23       localhost        Mon Jan 19 21:08 - 21:16  (00:07)    
+rajjhala    pts/0        :0               Mon Jan 19 21:06 - 21:16  (00:10)    
+rajjhala    pts/12       :0               Tue Jan 20 01:29 - 21:15  (-4:-13)   
+rajjhala    :0           :0               Tue Jan 20 01:28 - down   (-2:-54)   
+reboot   system boot  3.13.0-32-generi Tue Jan 20 01:28 - 22:34  (-2:-53)   
+rajjhala    pts/1        :0               Mon Jan 19 23:26 - 23:29  (00:03)    
+rajjhala    pts/2        :0               Mon Jan 19 23:22 - 23:26  (00:03)    
+rajjhala    pts/1        :0               Mon Jan 19 23:13 - 23:26  (00:12)    
+rajjhala    :0           :0               Mon Jan 19 22:51 - down   (01:12)    
+reboot   system boot  3.13.0-32-generi Mon Jan 19 22:51 - 00:04  (01:13)    
+
+wtmp begins Mon Jan 19 22:51:04 2015
+hello raj jhala iet
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+keyur
+eth0      Link encap:Ethernet  HWaddr e0:db:55:d1:92:34  
+          UP BROADCAST MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:0 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:0 (0.0 B)  TX bytes:0 (0.0 B)
+
+lo        Link encap:Local Loopback  
+          inet addr:127.0.0.1  Mask:255.0.0.0
+          inet6 addr: ::1/128 Scope:Host
+          UP LOOPBACK RUNNING  MTU:65536  Metric:1
+          RX packets:4170 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:4170 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:0 
+          RX bytes:410405 (410.4 KB)  TX bytes:410405 (410.4 KB)
+
+wlan0     Link encap:Ethernet  HWaddr 84:a6:c8:b6:9b:e4  
+          inet addr:10.0.0.3  Bcast:10.0.0.255  Mask:255.255.255.0
+          inet6 addr: fe80::86a6:c8ff:feb6:9be4/64 Scope:Link
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:29761 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:24759 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000 
+          RX bytes:18928797 (18.9 MB)  TX bytes:3514898 (3.5 MB)
+
+startx
+  PID TTY          TIME CMD
+ 1602 ?        00:00:00 gnome-keyring-d
+ 1604 ?        00:00:00 init
+ 1671 ?        00:00:00 ssh-agent
+ 1677 ?        00:00:01 dbus-daemon
+ 1685 ?        00:00:00 upstart-event-b
+ 1687 ?        00:00:00 window-stack-br
+ 1701 ?        00:00:19 ibus-daemon
+ 1718 ?        00:00:00 unity-settings-
+ 1722 ?        00:00:01 hud-service
+ 1724 ?        00:00:00 at-spi-bus-laun
+ 1726 ?        00:00:00 gnome-session
+ 1734 ?        00:00:00 gvfsd
+ 1735 ?        00:00:00 dbus-daemon
+ 1742 ?        00:00:00 gvfsd-fuse
+ 1743 ?        00:00:00 ibus-dconf
+ 1744 ?        00:00:03 ibus-ui-gtk3
+ 1746 ?        00:00:00 ibus-x11
+ 1754 ?        00:00:06 unity-panel-ser
+ 1756 ?        00:00:00 upstart-dbus-br
+ 1758 ?        00:00:00 upstart-file-br
+ 1760 ?        00:00:00 at-spi2-registr
+ 1762 ?        00:00:00 upstart-dbus-br
+ 1785 ?        00:00:04 ibus-engine-sim
+ 1794 ?        00:00:02 bamfdaemon
+ 1827 ?        00:00:00 pulseaudio
+ 1831 ?        00:00:00 dconf-service
+ 1833 ?        00:00:05 syndaemon
+ 1856 ?        00:00:00 indicator-keybo
+ 1859 ?        00:01:16 compiz
+ 1898 ?        00:00:00 indicator-bluet
+ 1899 ?        00:00:00 polkit-gnome-au
+ 1902 ?        00:00:04 nautilus
+ 1903 ?        00:00:02 nm-applet
+ 1904 ?        00:00:00 indicator-appli
+ 1905 ?        00:00:00 unity-fallback-
+ 1908 ?        00:00:00 indicator-messa
+ 1915 ?        00:00:01 indicator-power
+ 1923 ?        00:00:00 indicator-datet
+ 1927 ?        00:00:00 indicator-sound
+ 1928 ?        00:00:00 indicator-print
+ 1937 ?        00:00:00 indicator-sessi
+ 1955 ?        00:00:00 notify-osd
+ 1982 ?        00:00:00 gvfs-udisks2-vo
+ 2042 ?        00:00:00 evolution-sourc
+ 2054 ?        00:00:00 gconfd-2
+ 2112 ?        00:00:00 gvfs-gphoto2-vo
+ 2118 ?        00:00:00 gvfs-mtp-volume
+ 2123 ?        00:00:00 gvfs-afc-volume
+ 2125 ?        00:00:00 evolution-calen
+ 2138 ?        00:00:00 gvfsd-trash
+ 2155 ?        00:00:00 gvfsd-metadata
+ 2159 ?        00:00:00 gvfsd-burn
+ 2205 ?        00:00:16 gnome-terminal
+ 2211 ?        00:00:00 gnome-pty-helpe
+ 2212 pts/3    00:00:00 bash
+ 2274 ?        00:00:00 telepathy-indic
+ 2281 ?        00:00:00 mission-control
+ 2307 ?        00:00:00 zeitgeist-datah
+ 2312 ?        00:00:00 zeitgeist-daemo
+ 2318 ?        00:00:00 zeitgeist-fts
+ 2341 ?        00:00:00 cat
+ 2377 ?        00:00:00 update-notifier
+ 2413 ?        00:00:00 deja-dup-monito
+ 3289 ?        00:08:40 firefox
+ 3309 ?        00:00:00 unity-webapps-s
+ 3935 ?        00:03:06 gedit
+ 3966 pts/0    00:00:00 bash
+ 4923 pts/3    00:00:00 ed
+ 4973 pts/3    00:00:00 yes
+ 5152 pts/9    00:00:00 bash
+ 6620 pts/10   00:00:00 bash
+ 6675 pts/10   00:00:00 ps
+Linux rajjhala-Inspiron-5520 3.13.0-32-generic #57-Ubuntu SMP Tue Jul 15 03:51:08 UTC 2014 x86_64 x86_64 x86_64 GNU/Linux
+             total       used       free     shared    buffers     cached
+Mem:       8049128    3654224    4394904     259996      98796    1450488
+-/+ buffers/cache:    2104940    5944188
+Swap:      4001788          0    4001788
+hello raj jhala iet					      |	hola hello i m keyur
+screen
+screen c
+Bus 002 Device 003: ID 8087:07da Intel Corp. 
+Bus 002 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 002 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 001 Device 004: ID 0c45:648d Microdia 
+Bus 001 Device 003: ID 0bda:0129 Realtek Semiconductor Corp. RTS5129 Card Reader Controller
+Bus 001 Device 002: ID 8087:0024 Intel Corp. Integrated Rate Matching Hub
+Bus 001 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.0 root hub
+Bus 003 Device 001: ID 1d6b:0002 Linux Foundation 2.0 root hub
+hello raj jhala iet
+[?1h=[?25l[H[2J(B[mtop - 17:06:47 up  2:41,  2 users,  load average: 0.15, 0.18, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 230 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 229 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  1.2 (B[m[39;49mus,(B[m[39;49m[1m  0.3 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 97.9 (B[m[39;49mid,(B[m[39;49m[1m  0.6 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem: (B[m[39;49m[1m  8049128 (B[m[39;49mtotal,(B[m[39;49m[1m  3885044 (B[m[39;49mused,(B[m[39;49m[1m  4164084 (B[m[39;49mfree,(B[m[39;49m[1m   100768 (B[m[39;49mbuffers(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  4001788 (B[m[39;49mtotal,(B[m[39;49m[1m        0 (B[m[39;49mused,(B[m[39;49m[1m  4001788 (B[m[39;49mfree.(B[m[39;49m[1m  1547696 (B[m[39;49mcached Mem(B[m[39;49m(B[m[39;49m[K
+[K
+[7m  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND     (B[m[39;49m[K
+(B[m[1m 8228 rajjhala     20   0   29144   1584   1080 R  12.4  0.0   0:00.02 top         (B[m[39;49m[K
+(B[m 1744 rajjhala     20   0  488676  16108  10768 S   6.2  0.2   0:04.93 ibus-ui-gt+ (B[m[39;49m[K
+(B[m 1785 rajjhala     20   0  219916   4132   3432 S   6.2  0.1   0:05.96 ibus-engin+ (B[m[39;49m[K
+(B[m 1859 rajjhala     20   0 1574572 127380  35532 S   6.2  1.6   1:49.20 compiz      (B[m[39;49m[K
+(B[m 8077 rajjhala     20   0  641852  20364  13016 S   6.2  0.3   0:01.12 gnome-term+ (B[m[39;49m[K
+(B[m    1 root      20   0   33904   3188   1456 S   0.0  0.0   0:01.36 init        (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kthreadd    (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 S   0.0  0.0   0:00.01 ksoftirqd/0 (B[m[39;49m[K
+(B[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0.0  0.0   0:01.38 rcu_sched   (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.53 rcuos/0     (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 S   0.0  0.0   0:00.29 rcuos/1     (B[m[39;49m[K
+(B[m   10 root      20   0       0      0      0 S   0.0  0.0   0:00.39 rcuos/2     (B[m[39;49m[K
+(B[m   11 root      20   0       0      0      0 S   0.0  0.0   0:00.41 rcuos/3     (B[m[39;49m[K
+(B[m   12 root      20   0       0      0      0 S   0.0  0.0   0:00.38 rcuos/4     (B[m[39;49m[K
+(B[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.31 rcuos/5     (B[m[39;49m[K
+(B[m   14 root      20   0       0      0      0 S   0.0  0.0   0:00.36 rcuos/6     (B[m[39;49m[K[H(B[mtop - 17:06:50 up  2:41,  2 users,  load average: 0.15, 0.18, 0.22(B[m[39;49m(B[m[39;49m[K
+Tasks:(B[m[39;49m[1m 230 (B[m[39;49mtotal,(B[m[39;49m[1m   1 (B[m[39;49mrunning,(B[m[39;49m[1m 229 (B[m[39;49msleeping,(B[m[39;49m[1m   0 (B[m[39;49mstopped,(B[m[39;49m[1m   0 (B[m[39;49mzombie(B[m[39;49m(B[m[39;49m[K
+%Cpu(s):(B[m[39;49m[1m  0.3 (B[m[39;49mus,(B[m[39;49m[1m  0.2 (B[m[39;49msy,(B[m[39;49m[1m  0.0 (B[m[39;49mni,(B[m[39;49m[1m 99.3 (B[m[39;49mid,(B[m[39;49m[1m  0.2 (B[m[39;49mwa,(B[m[39;49m[1m  0.0 (B[m[39;49mhi,(B[m[39;49m[1m  0.0 (B[m[39;49msi,(B[m[39;49m[1m  0.0 (B[m[39;49mst(B[m[39;49m(B[m[39;49m[K
+KiB Mem: (B[m[39;49m[1m  8049128 (B[m[39;49mtotal,(B[m[39;49m[1m  3885176 (B[m[39;49mused,(B[m[39;49m[1m  4163952 (B[m[39;49mfree,(B[m[39;49m[1m   100768 (B[m[39;49mbuffers(B[m[39;49m(B[m[39;49m[K
+KiB Swap:(B[m[39;49m[1m  4001788 (B[m[39;49mtotal,(B[m[39;49m[1m        0 (B[m[39;49mused,(B[m[39;49m[1m  4001788 (B[m[39;49mfree.(B[m[39;49m[1m  1547700 (B[m[39;49mcached Mem(B[m[39;49m(B[m[39;49m[K
+[K
+
+(B[m 3289 rajjhala     20   0 1356856 464976  50552 S   1.3  5.8   9:30.35 firefox     (B[m[39;49m[K
+(B[m 1722 rajjhala     20   0  650404  27516  16264 S   0.3  0.3   0:02.63 hud-service (B[m[39;49m[K
+(B[m 1754 rajjhala     20   0  673940  23484  13216 S   0.3  0.3   0:08.20 unity-pane+ (B[m[39;49m[K
+(B[m 1859 rajjhala     20   0 1574572 127380  35532 S   0.3  1.6   1:49.21 compiz      (B[m[39;49m[K
+(B[m 1902 rajjhala     20   0 1370252  38544  23316 S   0.3  0.5   0:07.35 nautilus    (B[m[39;49m[K
+(B[m 4807 root      20   0       0      0      0 S   0.3  0.0   0:04.27 kworker/u1+ (B[m[39;49m[K
+(B[m    1 root      20   0   33904   3188   1456 S   0.0  0.0   0:01.36 init        (B[m[39;49m[K
+(B[m    2 root      20   0       0      0      0 S   0.0  0.0   0:00.00 kthreadd    (B[m[39;49m[K
+(B[m    3 root      20   0       0      0      0 S   0.0  0.0   0:00.01 ksoftirqd/0 (B[m[39;49m[K
+(B[m    5 root       0 -20       0      0      0 S   0.0  0.0   0:00.00 kworker/0:+ (B[m[39;49m[K
+(B[m    7 root      20   0       0      0      0 S   0.0  0.0   0:01.38 rcu_sched   (B[m[39;49m[K
+(B[m    8 root      20   0       0      0      0 S   0.0  0.0   0:00.53 rcuos/0     (B[m[39;49m[K
+(B[m    9 root      20   0       0      0      0 S   0.0  0.0   0:00.29 rcuos/1     (B[m[39;49m[K
+(B[m   10 root      20   0       0      0      0 S   0.0  0.0   0:00.39 rcuos/2     (B[m[39;49m[K
+(B[m   11 root      20   0       0      0      0 S   0.0  0.0   0:00.41 rcuos/3     (B[m[39;49m[K
+(B[m   12 root      20   0       0      0      0 S   0.0  0.0   0:00.38 rcuos/4     (B[m[39;49m[K
+(B[m   13 root      20   0       0      0      0 S   0.0  0.0   0:00.31 rcuos/5     (B[m[39;49m[K[?1l>[25;1H[?12l[?25h[    0.000000] Initializing cgroup subsys cpuset
+[    0.000000] Initializing cgroup subsys cpu
+[    0.000000] Initializing cgroup subsys cpuacct
+[    0.000000] Linux version 3.13.0-32-generic (buildd@kissel) (gcc version 4.8.2 (Ubuntu 4.8.2-19ubuntu1) ) #57-Ubuntu SMP Tue Jul 15 03:51:08 UTC 2014 (Ubuntu 3.13.0-32.57-generic 3.13.11.4)
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-3.13.0-32-generic root=UUID=b2ccf1a0-fa6e-43e5-8e64-00ad055636f0 ro quiet splash vt.handoff=7
+[    0.000000] KERNEL supported cpus:
+[    0.000000]   Intel GenuineIntel
+[    0.000000]   AMD AuthenticAMD
+[    0.000000]   Centaur CentaurHauls
+[    0.000000] e820: BIOS-provided physical RAM map:
+[    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000009d3ff] usable
+[    0.000000] BIOS-e820: [mem 0x000000000009d400-0x000000000009ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000000e0000-0x00000000000fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000000100000-0x000000001fffffff] usable
+[    0.000000] BIOS-e820: [mem 0x0000000020000000-0x00000000201fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000020200000-0x0000000040003fff] usable
+[    0.000000] BIOS-e820: [mem 0x0000000040004000-0x0000000040004fff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000040005000-0x000000009ffaffff] usable
+[    0.000000] BIOS-e820: [mem 0x000000009ffb0000-0x00000000a13affff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000a13b0000-0x00000000aa3befff] usable
+[    0.000000] BIOS-e820: [mem 0x00000000aa3bf000-0x00000000aaebefff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000aaebf000-0x00000000aafbefff] ACPI NVS
+[    0.000000] BIOS-e820: [mem 0x00000000aafbf000-0x00000000aaffefff] ACPI data
+[    0.000000] BIOS-e820: [mem 0x00000000aafff000-0x00000000aaffffff] usable
+[    0.000000] BIOS-e820: [mem 0x00000000ab000000-0x00000000af9fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000feb00000-0x00000000feb03fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fed10000-0x00000000fed19fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fed1c000-0x00000000fed1ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fee00000-0x00000000fee00fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000ffb80000-0x00000000ffffffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000100000000-0x000000024f5fffff] usable
+[    0.000000] NX (Execute Disable) protection: active
+[    0.000000] SMBIOS 2.7 present.
+[    0.000000] DMI: Dell Inc. Inspiron 5520/04G65K, BIOS A11 10/03/2012
+[    0.000000] e820: update [mem 0x00000000-0x00000fff] usable ==> reserved
+[    0.000000] e820: remove [mem 0x000a0000-0x000fffff] usable
+[    0.000000] No AGP bridge found
+[    0.000000] e820: last_pfn = 0x24f600 max_arch_pfn = 0x400000000
+[    0.000000] MTRR default type: uncachable
+[    0.000000] MTRR fixed ranges enabled:
+[    0.000000]   00000-9FFFF write-back
+[    0.000000]   A0000-BFFFF uncachable
+[    0.000000]   C0000-E7FFF write-protect
+[    0.000000]   E8000-EFFFF write-combining
+[    0.000000]   F0000-FFFFF write-protect
+[    0.000000] MTRR variable ranges enabled:
+[    0.000000]   0 base 000000000 mask F80000000 write-back
+[    0.000000]   1 base 080000000 mask FE0000000 write-back
+[    0.000000]   2 base 0A0000000 mask FF8000000 write-back
+[    0.000000]   3 base 0A8000000 mask FFE000000 write-back
+[    0.000000]   4 base 0AA000000 mask FFF000000 write-back
+[    0.000000]   5 base 0FFA00000 mask FFFE00000 write-protect
+[    0.000000]   6 base 0FFC00000 mask FFFC00000 write-protect
+[    0.000000]   7 base 100000000 mask F00000000 write-back
+[    0.000000]   8 base 200000000 mask F80000000 write-back
+[    0.000000]   9 base 24F600000 mask FFFE00000 uncachable
+[    0.000000] x86 PAT enabled: cpu 0, old 0x7040600070406, new 0x7010600070106
+[    0.000000] e820: last_pfn = 0xab000 max_arch_pfn = 0x400000000
+[    0.000000] found SMP MP-table at [mem 0x000fe1b0-0x000fe1bf] mapped at [ffff8800000fe1b0]
+[    0.000000] Scanning 1 areas for low memory corruption
+[    0.000000] Base memory trampoline at [ffff880000097000] 97000 size 24576
+[    0.000000] init_memory_mapping: [mem 0x00000000-0x000fffff]
+[    0.000000]  [mem 0x00000000-0x000fffff] page 4k
+[    0.000000] BRK [0x01fdf000, 0x01fdffff] PGTABLE
+[    0.000000] BRK [0x01fe0000, 0x01fe0fff] PGTABLE
+[    0.000000] BRK [0x01fe1000, 0x01fe1fff] PGTABLE
+[    0.000000] init_memory_mapping: [mem 0x24f400000-0x24f5fffff]
+[    0.000000]  [mem 0x24f400000-0x24f5fffff] page 2M
+[    0.000000] BRK [0x01fe2000, 0x01fe2fff] PGTABLE
+[    0.000000] init_memory_mapping: [mem 0x24c000000-0x24f3fffff]
+[    0.000000]  [mem 0x24c000000-0x24f3fffff] page 2M
+[    0.000000] init_memory_mapping: [mem 0x200000000-0x24bffffff]
+[    0.000000]  [mem 0x200000000-0x24bffffff] page 2M
+[    0.000000] BRK [0x01fe3000, 0x01fe3fff] PGTABLE
+[    0.000000] init_memory_mapping: [mem 0x00100000-0x1fffffff]
+[    0.000000]  [mem 0x00100000-0x001fffff] page 4k
+[    0.000000]  [mem 0x00200000-0x1fffffff] page 2M
+[    0.000000] init_memory_mapping: [mem 0x20200000-0x40003fff]
+[    0.000000]  [mem 0x20200000-0x3fffffff] page 2M
+[    0.000000]  [mem 0x40000000-0x40003fff] page 4k
+[    0.000000] BRK [0x01fe4000, 0x01fe4fff] PGTABLE
+[    0.000000] init_memory_mapping: [mem 0x40005000-0x9ffaffff]
+[    0.000000]  [mem 0x40005000-0x401fffff] page 4k
+[    0.000000]  [mem 0x40200000-0x9fdfffff] page 2M
+[    0.000000]  [mem 0x9fe00000-0x9ffaffff] page 4k
+[    0.000000] init_memory_mapping: [mem 0xa13b0000-0xaa3befff]
+[    0.000000]  [mem 0xa13b0000-0xa13fffff] page 4k
+[    0.000000]  [mem 0xa1400000-0xaa1fffff] page 2M
+[    0.000000]  [mem 0xaa200000-0xaa3befff] page 4k
+[    0.000000] init_memory_mapping: [mem 0xaafff000-0xaaffffff]
+[    0.000000]  [mem 0xaafff000-0xaaffffff] page 4k
+[    0.000000] init_memory_mapping: [mem 0x100000000-0x1ffffffff]
+[    0.000000]  [mem 0x100000000-0x1ffffffff] page 2M
+[    0.000000] RAMDISK: [mem 0x35b66000-0x36daafff]
+[    0.000000] ACPI: RSDP 00000000000fe020 000024 (v02 DELL  )
+[    0.000000] ACPI: XSDT 00000000aaffe210 0000A4 (v01 DELL    CL09    00000001      01000013)
+[    0.000000] ACPI: FACP 00000000aaffa000 00010C (v05 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: DSDT 00000000aafee000 008F82 (v01 DELL    CL09    00000000 ASL  00040000)
+[    0.000000] ACPI: FACS 00000000aafb9000 000040
+[    0.000000] ACPI: SLIC 00000000aaffd000 000176 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: UEFI 00000000aaffc000 000236 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: ASF! 00000000aaffb000 0000A5 (v32 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: HPET 00000000aaff9000 000038 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: APIC 00000000aaff8000 00008C (v03 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: MCFG 00000000aaff7000 00003C (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: SLIC 00000000aafed000 000176 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: SSDT 00000000aafec000 0006FE (v01 COMPAL CRV ORB  00001000 ACPI 00040000)
+[    0.000000] ACPI: BOOT 00000000aafea000 000028 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: ASPT 00000000aafe8000 000034 (v07 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: DBGP 00000000aafe7000 000034 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: FPDT 00000000aafe5000 000044 (v01 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: MSDM 00000000aafe4000 000055 (v03 DELL    CL09    00000001 ASL  00040000)
+[    0.000000] ACPI: SSDT 00000000aafe3000 0008A2 (v01 COMPAL CRV ORB  00003000 ACPI 00040000)
+[    0.000000] ACPI: SSDT 00000000aafe2000 000A92 (v01 COMPAL CRV ORB  00003000 ACPI 00040000)
+[    0.000000] ACPI: Local APIC address 0xfee00000
+[    0.000000] No NUMA configuration found
+[    0.000000] Faking a node at [mem 0x0000000000000000-0x000000024f5fffff]
+[    0.000000] Initmem setup node 0 [mem 0x00000000-0x24f5fffff]
+[    0.000000]   NODE_DATA [mem 0x24f5f1000-0x24f5f5fff]
+[    0.000000]  [ffffea0000000000-ffffea00093fffff] PMD -> [ffff880246c00000-ffff88024ebfffff] on node 0
+[    0.000000] Zone ranges:
+[    0.000000]   DMA      [mem 0x00001000-0x00ffffff]
+[    0.000000]   DMA32    [mem 0x01000000-0xffffffff]
+[    0.000000]   Normal   [mem 0x100000000-0x24f5fffff]
+[    0.000000] Movable zone start for each node
+[    0.000000] Early memory node ranges
+[    0.000000]   node   0: [mem 0x00001000-0x0009cfff]
+[    0.000000]   node   0: [mem 0x00100000-0x1fffffff]
+[    0.000000]   node   0: [mem 0x20200000-0x40003fff]
+[    0.000000]   node   0: [mem 0x40005000-0x9ffaffff]
+[    0.000000]   node   0: [mem 0xa13b0000-0xaa3befff]
+[    0.000000]   node   0: [mem 0xaafff000-0xaaffffff]
+[    0.000000]   node   0: [mem 0x100000000-0x24f5fffff]
+[    0.000000] On node 0 totalpages: 2065243
+[    0.000000]   DMA zone: 64 pages used for memmap
+[    0.000000]   DMA zone: 21 pages reserved
+[    0.000000]   DMA zone: 3996 pages, LIFO batch:0
+[    0.000000]   DMA32 zone: 10743 pages used for memmap
+[    0.000000]   DMA32 zone: 687551 pages, LIFO batch:31
+[    0.000000]   Normal zone: 21464 pages used for memmap
+[    0.000000]   Normal zone: 1373696 pages, LIFO batch:31
+[    0.000000] ACPI: PM-Timer IO Port: 0x408
+[    0.000000] ACPI: Local APIC address 0xfee00000
+[    0.000000] ACPI: LAPIC (acpi_id[0x01] lapic_id[0x00] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x02] lapic_id[0x01] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x03] lapic_id[0x02] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x04] lapic_id[0x03] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x05] lapic_id[0x04] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x06] lapic_id[0x05] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x07] lapic_id[0x06] enabled)
+[    0.000000] ACPI: LAPIC (acpi_id[0x08] lapic_id[0x07] enabled)
+[    0.000000] ACPI: IOAPIC (id[0x00] address[0xfec00000] gsi_base[0])
+[    0.000000] IOAPIC[0]: apic_id 0, version 32, address 0xfec00000, GSI 0-23
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 0 global_irq 2 dfl dfl)
+[    0.000000] ACPI: INT_SRC_OVR (bus 0 bus_irq 9 global_irq 9 high level)
+[    0.000000] ACPI: IRQ0 used by override.
+[    0.000000] ACPI: IRQ2 used by override.
+[    0.000000] ACPI: IRQ9 used by override.
+[    0.000000] Using ACPI (MADT) for SMP configuration information
+[    0.000000] ACPI: HPET id: 0x8086a201 base: 0xfed00000
+[    0.000000] smpboot: Allowing 8 CPUs, 0 hotplug CPUs
+[    0.000000] nr_irqs_gsi: 40
+[    0.000000] PM: Registered nosave memory: [mem 0x0009d000-0x0009dfff]
+[    0.000000] PM: Registered nosave memory: [mem 0x0009e000-0x0009ffff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000a0000-0x000dffff]
+[    0.000000] PM: Registered nosave memory: [mem 0x000e0000-0x000fffff]
+[    0.000000] PM: Registered nosave memory: [mem 0x20000000-0x201fffff]
+[    0.000000] PM: Registered nosave memory: [mem 0x40004000-0x40004fff]
+[    0.000000] PM: Registered nosave memory: [mem 0x9ffb0000-0xa13affff]
+[    0.000000] PM: Registered nosave memory: [mem 0xaa3bf000-0xaaebefff]
+[    0.000000] PM: Registered nosave memory: [mem 0xaaebf000-0xaafbefff]
+[    0.000000] PM: Registered nosave memory: [mem 0xaafbf000-0xaaffefff]
+[    0.000000] PM: Registered nosave memory: [mem 0xab000000-0xaf9fffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xafa00000-0xdfffffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xe0000000-0xefffffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xf0000000-0xfeafffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfeb00000-0xfeb03fff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfeb04000-0xfebfffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfec00000-0xfec00fff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfec01000-0xfed0ffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfed10000-0xfed19fff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfed1a000-0xfed1bfff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfed1c000-0xfed1ffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfed20000-0xfedfffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfee00000-0xfee00fff]
+[    0.000000] PM: Registered nosave memory: [mem 0xfee01000-0xffb7ffff]
+[    0.000000] PM: Registered nosave memory: [mem 0xffb80000-0xffffffff]
+[    0.000000] e820: [mem 0xafa00000-0xdfffffff] available for PCI devices
+[    0.000000] Booting paravirtualized kernel on bare hardware
+[    0.000000] setup_percpu: NR_CPUS:256 nr_cpumask_bits:256 nr_cpu_ids:8 nr_node_ids:1
+[    0.000000] PERCPU: Embedded 29 pages/cpu @ffff88024f200000 s86336 r8192 d24256 u262144
+[    0.000000] pcpu-alloc: s86336 r8192 d24256 u262144 alloc=1*2097152
+[    0.000000] pcpu-alloc: [0] 0 1 2 3 4 5 6 7 
+[    0.000000] Built 1 zonelists in Zone order, mobility grouping on.  Total pages: 2032951
+[    0.000000] Policy zone: Normal
+[    0.000000] Kernel command line: BOOT_IMAGE=/boot/vmlinuz-3.13.0-32-generic root=UUID=b2ccf1a0-fa6e-43e5-8e64-00ad055636f0 ro quiet splash vt.handoff=7
+[    0.000000] PID hash table entries: 4096 (order: 3, 32768 bytes)
+[    0.000000] xsave: enabled xstate_bv 0x7, cntxt size 0x340
+[    0.000000] Checking aperture...
+[    0.000000] No AGP bridge found
+[    0.000000] Calgary: detecting Calgary via BIOS EBDA area
+[    0.000000] Calgary: Unable to locate Rio Grande table in EBDA - bailing!
+[    0.000000] Memory: 8027540K/8260972K available (7363K kernel code, 1142K rwdata, 3400K rodata, 1336K init, 1440K bss, 233432K reserved)
+[    0.000000] SLUB: HWalign=64, Order=0-3, MinObjects=0, CPUs=8, Nodes=1
+[    0.000000] Hierarchical RCU implementation.
+[    0.000000] 	RCU dyntick-idle grace-period acceleration is enabled.
+[    0.000000] 	RCU restricting CPUs from NR_CPUS=256 to nr_cpu_ids=8.
+[    0.000000] 	Offload RCU callbacks from all CPUs
+[    0.000000] 	Offload RCU callbacks from CPUs: 0-7.
+[    0.000000] NR_IRQS:16640 nr_irqs:744 16
+[    0.000000] Console: colour dummy device 80x25
+[    0.000000] console [tty0] enabled
+[    0.000000] allocated 33554432 bytes of page_cgroup
+[    0.000000] please try 'cgroup_disable=memory' option if you don't want memory cgroups
+[    0.000000] hpet clockevent registered
+[    0.000000] tsc: Fast TSC calibration using PIT
+[    0.004000] tsc: Detected 2195.173 MHz processor
+[    0.000002] Calibrating delay loop (skipped), value calculated using timer frequency.. 4390.34 BogoMIPS (lpj=8780692)
+[    0.000005] pid_max: default: 32768 minimum: 301
+[    0.000028] Security Framework initialized
+[    0.000046] AppArmor: AppArmor initialized
+[    0.000047] Yama: becoming mindful.
+[    0.000661] Dentry cache hash table entries: 1048576 (order: 11, 8388608 bytes)
+[    0.002878] Inode-cache hash table entries: 524288 (order: 10, 4194304 bytes)
+[    0.003858] Mount-cache hash table entries: 16384 (order: 5, 131072 bytes)
+[    0.003869] Mountpoint-cache hash table entries: 16384 (order: 5, 131072 bytes)
+[    0.004068] Initializing cgroup subsys memory
+[    0.004074] Initializing cgroup subsys devices
+[    0.004075] Initializing cgroup subsys freezer
+[    0.004077] Initializing cgroup subsys blkio
+[    0.004078] Initializing cgroup subsys perf_event
+[    0.004081] Initializing cgroup subsys hugetlb
+[    0.004102] CPU: Physical Processor ID: 0
+[    0.004104] CPU: Processor Core ID: 0
+[    0.004108] ENERGY_PERF_BIAS: Set to 'normal', was 'performance'
+[    0.004108] ENERGY_PERF_BIAS: View and update with x86_energy_perf_policy(8)
+[    0.004534] mce: CPU supports 9 MCE banks
+[    0.004548] CPU0: Thermal monitoring enabled (TM1)
+[    0.004559] Last level iTLB entries: 4KB 512, 2MB 0, 4MB 0
+[    0.004559] Last level dTLB entries: 4KB 512, 2MB 32, 4MB 32
+[    0.004559] tlb_flushall_shift: 2
+[    0.004689] Freeing SMP alternatives memory: 32K (ffffffff81e6d000 - ffffffff81e75000)
+[    0.005933] ACPI: Core revision 20131115
+[    0.010848] ACPI: All ACPI Tables successfully acquired
+[    0.023937] ftrace: allocating 28495 entries in 112 pages
+[    0.038778] ..TIMER: vector=0x30 apic1=0 pin1=2 apic2=-1 pin2=-1
+[    0.078422] smpboot: CPU0: Intel(R) Core(TM) i7-3632QM CPU @ 2.20GHz (fam: 06, model: 3a, stepping: 09)
+[    0.078429] TSC deadline timer enabled
+[    0.078438] Performance Events: PEBS fmt1+, 16-deep LBR, IvyBridge events, full-width counters, Intel PMU driver.
+[    0.078444] ... version:                3
+[    0.078445] ... bit width:              48
+[    0.078446] ... generic registers:      4
+[    0.078447] ... value mask:             0000ffffffffffff
+[    0.078448] ... max period:             0000ffffffffffff
+[    0.078449] ... fixed-purpose events:   3
+[    0.078450] ... event mask:             000000070000000f
+[    0.080166] x86: Booting SMP configuration:
+[    0.093882] NMI watchdog: enabled on all CPUs, permanently consumes one hw-PMU counter.
+[    0.080168] .... node  #0, CPUs:      #1 #2 #3 #4 #5 #6 #7
+[    0.175574] x86: Booted up 1 node, 8 CPUs
+[    0.175577] smpboot: Total of 8 processors activated (35122.76 BogoMIPS)
+[    0.183193] devtmpfs: initialized
+[    0.185920] EVM: security.selinux
+[    0.185922] EVM: security.SMACK64
+[    0.185923] EVM: security.ima
+[    0.185924] EVM: security.capability
+[    0.185969] PM: Registering ACPI NVS region [mem 0xaaebf000-0xaafbefff] (1048576 bytes)
+[    0.186786] pinctrl core: initialized pinctrl subsystem
+[    0.186843] regulator-dummy: no parameters
+[    0.186873] RTC time:  8:55:38, date: 01/23/15
+[    0.186904] NET: Registered protocol family 16
+[    0.187007] cpuidle: using governor ladder
+[    0.187009] cpuidle: using governor menu
+[    0.187046] ACPI FADT declares the system doesn't support PCIe ASPM, so disable it
+[    0.187047] ACPI: bus type PCI registered
+[    0.187049] acpiphp: ACPI Hot Plug PCI Controller Driver version: 0.5
+[    0.187108] PCI: MMCONFIG for domain 0000 [bus 00-ff] at [mem 0xe0000000-0xefffffff] (base 0xe0000000)
+[    0.187110] PCI: MMCONFIG at [mem 0xe0000000-0xefffffff] reserved in E820
+[    0.214410] PCI: Using configuration type 1 for base access
+[    0.214417] dmi type 0xB1 record - unknown flag
+[    0.215368] bio: create slab <bio-0> at 0
+[    0.215522] ACPI: Added _OSI(Module Device)
+[    0.215523] ACPI: Added _OSI(Processor Device)
+[    0.215524] ACPI: Added _OSI(3.0 _SCP Extensions)
+[    0.215526] ACPI: Added _OSI(Processor Aggregator Device)
+[    0.217960] ACPI: Executed 1 blocks of module-level executable AML code
+[    0.223393] ACPI: SSDT 00000000aadf7018 00083B (v01  PmRef  Cpu0Cst 00003001 INTL 20111123)
+[    0.223708] ACPI: Dynamic OEM Table Load:
+[    0.223710] ACPI: SSDT           (null) 00083B (v01  PmRef  Cpu0Cst 00003001 INTL 20111123)
+[    0.227156] ACPI: SSDT 00000000aadf8a98 000303 (v01  PmRef    ApIst 00003000 INTL 20111123)
+[    0.227494] ACPI: Dynamic OEM Table Load:
+[    0.227496] ACPI: SSDT           (null) 000303 (v01  PmRef    ApIst 00003000 INTL 20111123)
+[    0.231029] ACPI: SSDT 00000000aadf6d98 000119 (v01  PmRef    ApCst 00003000 INTL 20111123)
+[    0.231336] ACPI: Dynamic OEM Table Load:
+[    0.231337] ACPI: SSDT           (null) 000119 (v01  PmRef    ApCst 00003000 INTL 20111123)
+[    0.236139] ACPI: Interpreter enabled
+[    0.236146] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S1_] (20131115/hwxface-580)
+[    0.236150] ACPI Exception: AE_NOT_FOUND, While evaluating Sleep State [\_S2_] (20131115/hwxface-580)
+[    0.236164] ACPI: (supports S0 S3 S4 S5)
+[    0.236165] ACPI: Using IOAPIC for interrupt routing
+[    0.236192] PCI: Using host bridge windows from ACPI; if necessary, use "pci=nocrs" and report a bug
+[    0.236312] ACPI: No dock devices found.
+[    0.493066] ACPI: PCI Root Bridge [PCI0] (domain 0000 [bus 00-fe])
+[    0.493072] acpi PNP0A08:00: _OSC: OS supports [ExtendedConfig ASPM ClockPM Segments MSI]
+[    0.493188] \_SB_.PCI0:_OSC invalid UUID
+[    0.493189] _OSC request data:1 1f 0 
+[    0.493193] acpi PNP0A08:00: _OSC failed (AE_ERROR); disabling ASPM
+[    0.493794] PCI host bridge to bus 0000:00
+[    0.493797] pci_bus 0000:00: root bus resource [bus 00-fe]
+[    0.493799] pci_bus 0000:00: root bus resource [io  0x0000-0x0cf7]
+[    0.493801] pci_bus 0000:00: root bus resource [io  0x0d00-0xffff]
+[    0.493802] pci_bus 0000:00: root bus resource [mem 0x000a0000-0x000bffff]
+[    0.493804] pci_bus 0000:00: root bus resource [mem 0xafa00000-0xfeafffff]
+[    0.493812] pci 0000:00:00.0: [8086:0154] type 00 class 0x060000
+[    0.493887] pci 0000:00:02.0: [8086:0166] type 00 class 0x030000
+[    0.493899] pci 0000:00:02.0: reg 0x10: [mem 0xc0000000-0xc03fffff 64bit]
+[    0.493905] pci 0000:00:02.0: reg 0x18: [mem 0xb0000000-0xbfffffff 64bit pref]
+[    0.493909] pci 0000:00:02.0: reg 0x20: [io  0x3000-0x303f]
+[    0.493998] pci 0000:00:14.0: [8086:1e31] type 00 class 0x0c0330
+[    0.494022] pci 0000:00:14.0: reg 0x10: [mem 0xc0600000-0xc060ffff 64bit]
+[    0.494096] pci 0000:00:14.0: PME# supported from D3hot D3cold
+[    0.494139] pci 0000:00:14.0: System wakeup disabled by ACPI
+[    0.494173] pci 0000:00:16.0: [8086:1e3a] type 00 class 0x078000
+[    0.494198] pci 0000:00:16.0: reg 0x10: [mem 0xc0614000-0xc061400f 64bit]
+[    0.494278] pci 0000:00:16.0: PME# supported from D0 D3hot D3cold
+[    0.494349] pci 0000:00:1a.0: [8086:1e2d] type 00 class 0x0c0320
+[    0.494371] pci 0000:00:1a.0: reg 0x10: [mem 0xc0619000-0xc06193ff]
+[    0.494464] pci 0000:00:1a.0: PME# supported from D0 D3hot D3cold
+[    0.494528] pci 0000:00:1b.0: [8086:1e20] type 00 class 0x040300
+[    0.494543] pci 0000:00:1b.0: reg 0x10: [mem 0xc0610000-0xc0613fff 64bit]
+[    0.494614] pci 0000:00:1b.0: PME# supported from D0 D3hot D3cold
+[    0.494675] pci 0000:00:1c.0: [8086:1e10] type 01 class 0x060400
+[    0.494757] pci 0000:00:1c.0: PME# supported from D0 D3hot D3cold
+[    0.494810] pci 0000:00:1c.0: System wakeup disabled by ACPI
+[    0.494841] pci 0000:00:1c.1: [8086:1e12] type 01 class 0x060400
+[    0.494922] pci 0000:00:1c.1: PME# supported from D0 D3hot D3cold
+[    0.494961] pci 0000:00:1c.1: System wakeup disabled by ACPI
+[    0.495000] pci 0000:00:1d.0: [8086:1e26] type 00 class 0x0c0320
+[    0.495023] pci 0000:00:1d.0: reg 0x10: [mem 0xc0618000-0xc06183ff]
+[    0.495117] pci 0000:00:1d.0: PME# supported from D0 D3hot D3cold
+[    0.495164] pci 0000:00:1d.0: System wakeup disabled by ACPI
+[    0.495195] pci 0000:00:1f.0: [8086:1e57] type 00 class 0x060100
+[    0.495358] pci 0000:00:1f.2: [8086:1e03] type 00 class 0x010601
+[    0.495379] pci 0000:00:1f.2: reg 0x10: [io  0x3088-0x308f]
+[    0.495387] pci 0000:00:1f.2: reg 0x14: [io  0x3094-0x3097]
+[    0.495395] pci 0000:00:1f.2: reg 0x18: [io  0x3080-0x3087]
+[    0.495404] pci 0000:00:1f.2: reg 0x1c: [io  0x3090-0x3093]
+[    0.495413] pci 0000:00:1f.2: reg 0x20: [io  0x3060-0x307f]
+[    0.495421] pci 0000:00:1f.2: reg 0x24: [mem 0xc0617000-0xc06177ff]
+[    0.495467] pci 0000:00:1f.2: PME# supported from D3hot
+[    0.495523] pci 0000:00:1f.3: [8086:1e22] type 00 class 0x0c0500
+[    0.495540] pci 0000:00:1f.3: reg 0x10: [mem 0xc0615000-0xc06150ff 64bit]
+[    0.495561] pci 0000:00:1f.3: reg 0x20: [io  0x3040-0x305f]
+[    0.495776] pci 0000:01:00.0: [10ec:8136] type 00 class 0x020000
+[    0.495847] pci 0000:01:00.0: reg 0x10: [io  0x2000-0x20ff]
+[    0.495969] pci 0000:01:00.0: reg 0x18: [mem 0xc0404000-0xc0404fff 64bit pref]
+[    0.496044] pci 0000:01:00.0: reg 0x20: [mem 0xc0400000-0xc0403fff 64bit pref]
+[    0.496374] pci 0000:01:00.0: supports D1 D2
+[    0.496375] pci 0000:01:00.0: PME# supported from D0 D1 D2 D3hot D3cold
+[    0.506852] pci 0000:00:1c.0: PCI bridge to [bus 01]
+[    0.506857] pci 0000:00:1c.0:   bridge window [io  0x2000-0x2fff]
+[    0.506866] pci 0000:00:1c.0:   bridge window [mem 0xc0400000-0xc04fffff 64bit pref]
+[    0.507003] pci 0000:02:00.0: [8086:0887] type 00 class 0x028000
+[    0.507051] pci 0000:02:00.0: reg 0x10: [mem 0xc0500000-0xc0501fff 64bit]
+[    0.507283] pci 0000:02:00.0: PME# supported from D0 D3hot D3cold
+[    0.518860] pci 0000:00:1c.1: PCI bridge to [bus 02]
+[    0.518867] pci 0000:00:1c.1:   bridge window [mem 0xc0500000-0xc05fffff]
+[    0.591018] ACPI: PCI Interrupt Link [LNKA] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+[    0.591070] ACPI: PCI Interrupt Link [LNKB] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+[    0.591119] ACPI: PCI Interrupt Link [LNKC] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+[    0.591167] ACPI: PCI Interrupt Link [LNKD] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+[    0.591215] ACPI: PCI Interrupt Link [LNKE] (IRQs 1 3 4 5 6 10 11 12 14 15) *0, disabled.
+[    0.591263] ACPI: PCI Interrupt Link [LNKF] (IRQs 1 3 4 5 6 10 11 12 14 15) *7
+[    0.591311] ACPI: PCI Interrupt Link [LNKG] (IRQs 1 3 4 5 6 *10 11 12 14 15)
+[    0.591358] ACPI: PCI Interrupt Link [LNKH] (IRQs 1 3 4 5 6 10 *11 12 14 15)
+[    0.591579] ACPI: Enabled 5 GPEs in block 00 to 3F
+[    0.591585] ACPI: \_SB_.PCI0: notify handler is installed
+[    0.591628] Found 1 acpi root devices
+[    0.591660] ACPI : EC: GPE = 0x17, I/O: command/status = 0x66, data = 0x62
+[    0.591751] vgaarb: device added: PCI:0000:00:02.0,decodes=io+mem,owns=io+mem,locks=none
+[    0.591754] vgaarb: loaded
+[    0.591755] vgaarb: bridge control possible 0000:00:02.0
+[    0.591892] SCSI subsystem initialized
+[    0.591936] libata version 3.00 loaded.
+[    0.591953] ACPI: bus type USB registered
+[    0.591965] usbcore: registered new interface driver usbfs
+[    0.591973] usbcore: registered new interface driver hub
+[    0.591995] usbcore: registered new device driver usb
+[    0.592107] PCI: Using ACPI for IRQ routing
+[    0.598828] PCI: pci_cache_line_size set to 64 bytes
+[    0.598919] e820: reserve RAM buffer [mem 0x0009d400-0x0009ffff]
+[    0.598921] e820: reserve RAM buffer [mem 0x40004000-0x43ffffff]
+[    0.598922] e820: reserve RAM buffer [mem 0x9ffb0000-0x9fffffff]
+[    0.598923] e820: reserve RAM buffer [mem 0xaa3bf000-0xabffffff]
+[    0.598925] e820: reserve RAM buffer [mem 0xab000000-0xabffffff]
+[    0.598926] e820: reserve RAM buffer [mem 0x24f600000-0x24fffffff]
+[    0.598995] NetLabel: Initializing
+[    0.598997] NetLabel:  domain hash size = 128
+[    0.598998] NetLabel:  protocols = UNLABELED CIPSOv4
+[    0.599009] NetLabel:  unlabeled traffic allowed by default
+[    0.599062] hpet0: at MMIO 0xfed00000, IRQs 2, 8, 0, 0, 0, 0, 0, 0
+[    0.599067] hpet0: 8 comparators, 64-bit 14.318180 MHz counter
+[    0.601094] Switched to clocksource hpet
+[    0.605167] AppArmor: AppArmor Filesystem Enabled
+[    0.605187] pnp: PnP ACPI init
+[    0.605196] ACPI: bus type PNP registered
+[    0.605222] pnp 00:00: [dma 4]
+[    0.605240] pnp 00:00: Plug and Play ACPI device, IDs PNP0200 (active)
+[    0.605257] pnp 00:01: Plug and Play ACPI device, IDs INT0800 (active)
+[    0.605344] pnp 00:02: Plug and Play ACPI device, IDs PNP0103 (active)
+[    0.605371] pnp 00:03: Plug and Play ACPI device, IDs PNP0c04 (active)
+[    0.605406] system 00:04: [io  0x0680-0x069f] has been reserved
+[    0.605408] system 00:04: [io  0x1000-0x100f] has been reserved
+[    0.605410] system 00:04: [io  0xffff] has been reserved
+[    0.605411] system 00:04: [io  0xffff] has been reserved
+[    0.605413] system 00:04: [io  0x0400-0x0453] could not be reserved
+[    0.605415] system 00:04: [io  0x0458-0x047f] has been reserved
+[    0.605417] system 00:04: [io  0x0500-0x057f] has been reserved
+[    0.605419] system 00:04: [io  0x164e-0x164f] has been reserved
+[    0.605420] system 00:04: [io  0xfd60-0xfd63] has been reserved
+[    0.605423] system 00:04: Plug and Play ACPI device, IDs PNP0c02 (active)
+[    0.605445] pnp 00:05: Plug and Play ACPI device, IDs PNP0b00 (active)
+[    0.605483] system 00:06: [io  0x0454-0x0457] has been reserved
+[    0.605486] system 00:06: Plug and Play ACPI device, IDs INT3f0d PNP0c02 (active)
+[    0.605520] pnp 00:07: Plug and Play ACPI device, IDs PNP0303 (active)
+[    0.605545] pnp 00:08: Plug and Play ACPI device, IDs DLL0569 PNP0f13 (active)
+[    0.677163] system 00:09: [mem 0xfed1c000-0xfed1ffff] has been reserved
+[    0.677166] system 00:09: [mem 0xfed10000-0xfed17fff] has been reserved
+[    0.677168] system 00:09: [mem 0xfed18000-0xfed18fff] has been reserved
+[    0.677169] system 00:09: [mem 0xfed19000-0xfed19fff] has been reserved
+[    0.677171] system 00:09: [mem 0xe0000000-0xefffffff] has been reserved
+[    0.677173] system 00:09: [mem 0xfed20000-0xfed3ffff] has been reserved
+[    0.677175] system 00:09: [mem 0xfed90000-0xfed93fff] has been reserved
+[    0.677177] system 00:09: [mem 0xff000000-0xff000fff] has been reserved
+[    0.677179] system 00:09: [mem 0xff010000-0xffffffff] could not be reserved
+[    0.677181] system 00:09: [mem 0xfee00000-0xfeefffff] could not be reserved
+[    0.677183] system 00:09: [mem 0xafa00000-0xafa00fff] has been reserved
+[    0.677185] system 00:09: Plug and Play ACPI device, IDs PNP0c02 (active)
+[    0.677423] system 00:0a: [mem 0x20000000-0x201fffff] has been reserved
+[    0.677425] system 00:0a: [mem 0x40004000-0x40004fff] has been reserved
+[    0.677428] system 00:0a: Plug and Play ACPI device, IDs PNP0c01 (active)
+[    0.677442] pnp: PnP ACPI: found 11 devices
+[    0.677443] ACPI: bus type PNP unregistered
+[    0.683625] pci 0000:00:1c.0: PCI bridge to [bus 01]
+[    0.683630] pci 0000:00:1c.0:   bridge window [io  0x2000-0x2fff]
+[    0.683638] pci 0000:00:1c.0:   bridge window [mem 0xc0400000-0xc04fffff 64bit pref]
+[    0.683645] pci 0000:00:1c.1: PCI bridge to [bus 02]
+[    0.683650] pci 0000:00:1c.1:   bridge window [mem 0xc0500000-0xc05fffff]
+[    0.683659] pci_bus 0000:00: resource 4 [io  0x0000-0x0cf7]
+[    0.683661] pci_bus 0000:00: resource 5 [io  0x0d00-0xffff]
+[    0.683663] pci_bus 0000:00: resource 6 [mem 0x000a0000-0x000bffff]
+[    0.683664] pci_bus 0000:00: resource 7 [mem 0xafa00000-0xfeafffff]
+[    0.683666] pci_bus 0000:01: resource 0 [io  0x2000-0x2fff]
+[    0.683668] pci_bus 0000:01: resource 2 [mem 0xc0400000-0xc04fffff 64bit pref]
+[    0.683670] pci_bus 0000:02: resource 1 [mem 0xc0500000-0xc05fffff]
+[    0.683698] NET: Registered protocol family 2
+[    0.683855] TCP established hash table entries: 65536 (order: 7, 524288 bytes)
+[    0.684014] TCP bind hash table entries: 65536 (order: 8, 1048576 bytes)
+[    0.684139] TCP: Hash tables configured (established 65536 bind 65536)
+[    0.684154] TCP: reno registered
+[    0.684164] UDP hash table entries: 4096 (order: 5, 131072 bytes)
+[    0.684194] UDP-Lite hash table entries: 4096 (order: 5, 131072 bytes)
+[    0.684258] NET: Registered protocol family 1
+[    0.684268] pci 0000:00:02.0: Boot video device
+[    0.717108] PCI: CLS 64 bytes, default 64
+[    0.717156] Trying to unpack rootfs image as initramfs...
+[    1.026387] Freeing initrd memory: 18708K (ffff880035b66000 - ffff880036dab000)
+[    1.026392] PCI-DMA: Using software bounce buffering for IO (SWIOTLB)
+[    1.026395] software IO TLB [mem 0xa63bf000-0xaa3bf000] (64MB) mapped at [ffff8800a63bf000-ffff8800aa3befff]
+[    1.026461] Simple Boot Flag at 0x44 set to 0x1
+[    1.026729] microcode: CPU0 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026736] microcode: CPU1 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026743] microcode: CPU2 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026751] microcode: CPU3 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026755] microcode: CPU4 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026761] microcode: CPU5 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026771] microcode: CPU6 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026779] microcode: CPU7 sig=0x306a9, pf=0x10, revision=0x15
+[    1.026824] microcode: Microcode Update Driver: v2.00 <tigran@aivazian.fsnet.co.uk>, Peter Oruba
+[    1.026826] Scanning for low memory corruption every 60 seconds
+[    1.027063] Initialise system trusted keyring
+[    1.027103] audit: initializing netlink socket (disabled)
+[    1.027111] type=2000 audit(1422003339.004:1): initialized
+[    1.055521] HugeTLB registered 2 MB page size, pre-allocated 0 pages
+[    1.056541] zbud: loaded
+[    1.056693] VFS: Disk quotas dquot_6.5.2
+[    1.056730] Dquot-cache hash table entries: 512 (order 0, 4096 bytes)
+[    1.057081] fuse init (API version 7.22)
+[    1.057142] msgmni has been set to 15715
+[    1.057185] Key type big_key registered
+[    1.057609] Key type asymmetric registered
+[    1.057610] Asymmetric key parser 'x509' registered
+[    1.057636] Block layer SCSI generic (bsg) driver version 0.4 loaded (major 252)
+[    1.057679] io scheduler noop registered
+[    1.057681] io scheduler deadline registered (default)
+[    1.057700] io scheduler cfq registered
+[    1.058014] pci_hotplug: PCI Hot Plug PCI Core version: 0.5
+[    1.058027] pciehp: PCI Express Hot Plug Controller Driver version: 0.4
+[    1.058057] vesafb: mode is 1366x768x32, linelength=5504, pages=0
+[    1.058058] vesafb: scrolling: redraw
+[    1.058060] vesafb: Truecolor: size=8:8:8:8, shift=24:16:8:0
+[    1.058528] vesafb: framebuffer at 0xb0000000, mapped to 0xffffc90010e80000, using 4160k, total 4160k
+[    1.138228] Console: switching to colour frame buffer device 170x48
+[    1.217663] fb0: VESA VGA frame buffer device
+[    1.217676] intel_idle: MWAIT substates: 0x21120
+[    1.217677] intel_idle: v0.4 model 0x3A
+[    1.217679] intel_idle: lapic_timer_reliable_states 0xffffffff
+[    1.217838] ipmi message handler version 39.2
+[    1.217910] ACPI: AC Adapter [ACAD] (on-line)
+[    1.218003] input: Power Button as /devices/LNXSYSTM:00/device:00/PNP0A08:00/device:02/PNP0C0C:00/input/input0
+[    1.218007] ACPI: Power Button [PWRB]
+[    1.218041] input: Lid Switch as /devices/LNXSYSTM:00/device:00/PNP0C0D:00/input/input1
+[    1.218060] ACPI: Lid Switch [LID0]
+[    1.218086] input: Power Button as /devices/LNXSYSTM:00/LNXPWRBN:00/input/input2
+[    1.218088] ACPI: Power Button [PWRF]
+[    1.218448] GHES: HEST is not enabled!
+[    1.218521] Serial: 8250/16550 driver, 32 ports, IRQ sharing enabled
+[    1.460223] ACPI: Deprecated procfs I/F for battery is loaded, please retry with CONFIG_ACPI_PROCFS_POWER cleared
+[    1.460229] ACPI: Battery Slot [BAT1] (battery present)
+[    1.460325] Linux agpgart interface v0.103
+[    1.461427] brd: module loaded
+[    1.462080] loop: module loaded
+[    1.462374] libphy: Fixed MDIO Bus: probed
+[    1.462443] tun: Universal TUN/TAP device driver, 1.6
+[    1.462444] tun: (C) 1999-2004 Max Krasnyansky <maxk@qualcomm.com>
+[    1.462483] PPP generic driver version 2.4.2
+[    1.462516] ehci_hcd: USB 2.0 'Enhanced' Host Controller (EHCI) Driver
+[    1.462519] ehci-pci: EHCI PCI platform driver
+[    1.462626] ehci-pci 0000:00:1a.0: EHCI Host Controller
+[    1.462632] ehci-pci 0000:00:1a.0: new USB bus registered, assigned bus number 1
+[    1.462644] ehci-pci 0000:00:1a.0: debug port 2
+[    1.466551] ehci-pci 0000:00:1a.0: cache line size of 64 is not supported
+[    1.466572] ehci-pci 0000:00:1a.0: irq 16, io mem 0xc0619000
+[    1.476149] ehci-pci 0000:00:1a.0: USB 2.0 started, EHCI 1.00
+[    1.476187] usb usb1: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.476189] usb usb1: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.476190] usb usb1: Product: EHCI Host Controller
+[    1.476192] usb usb1: Manufacturer: Linux 3.13.0-32-generic ehci_hcd
+[    1.476193] usb usb1: SerialNumber: 0000:00:1a.0
+[    1.476287] hub 1-0:1.0: USB hub found
+[    1.476295] hub 1-0:1.0: 2 ports detected
+[    1.476475] ehci-pci 0000:00:1d.0: EHCI Host Controller
+[    1.476480] ehci-pci 0000:00:1d.0: new USB bus registered, assigned bus number 2
+[    1.476492] ehci-pci 0000:00:1d.0: debug port 2
+[    1.480391] ehci-pci 0000:00:1d.0: cache line size of 64 is not supported
+[    1.480405] ehci-pci 0000:00:1d.0: irq 23, io mem 0xc0618000
+[    1.492132] ehci-pci 0000:00:1d.0: USB 2.0 started, EHCI 1.00
+[    1.492167] usb usb2: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.492168] usb usb2: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.492170] usb usb2: Product: EHCI Host Controller
+[    1.492172] usb usb2: Manufacturer: Linux 3.13.0-32-generic ehci_hcd
+[    1.492173] usb usb2: SerialNumber: 0000:00:1d.0
+[    1.492254] hub 2-0:1.0: USB hub found
+[    1.492260] hub 2-0:1.0: 2 ports detected
+[    1.492337] ehci-platform: EHCI generic platform driver
+[    1.492345] ohci_hcd: USB 1.1 'Open' Host Controller (OHCI) Driver
+[    1.492346] ohci-pci: OHCI PCI platform driver
+[    1.492353] ohci-platform: OHCI generic platform driver
+[    1.492358] uhci_hcd: USB Universal Host Controller Interface driver
+[    1.492464] xhci_hcd 0000:00:14.0: xHCI Host Controller
+[    1.492469] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 3
+[    1.492563] xhci_hcd 0000:00:14.0: cache line size of 64 is not supported
+[    1.492585] xhci_hcd 0000:00:14.0: irq 40 for MSI/MSI-X
+[    1.492648] usb usb3: New USB device found, idVendor=1d6b, idProduct=0002
+[    1.492649] usb usb3: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.492651] usb usb3: Product: xHCI Host Controller
+[    1.492653] usb usb3: Manufacturer: Linux 3.13.0-32-generic xhci_hcd
+[    1.492654] usb usb3: SerialNumber: 0000:00:14.0
+[    1.492811] hub 3-0:1.0: USB hub found
+[    1.492824] hub 3-0:1.0: 4 ports detected
+[    1.493125] xhci_hcd 0000:00:14.0: xHCI Host Controller
+[    1.493129] xhci_hcd 0000:00:14.0: new USB bus registered, assigned bus number 4
+[    1.493168] usb usb4: New USB device found, idVendor=1d6b, idProduct=0003
+[    1.493170] usb usb4: New USB device strings: Mfr=3, Product=2, SerialNumber=1
+[    1.493171] usb usb4: Product: xHCI Host Controller
+[    1.493173] usb usb4: Manufacturer: Linux 3.13.0-32-generic xhci_hcd
+[    1.493175] usb usb4: SerialNumber: 0000:00:14.0
+[    1.493338] hub 4-0:1.0: USB hub found
+[    1.493351] hub 4-0:1.0: 4 ports detected
+[    1.500243] i8042: PNP: PS/2 Controller [PNP0303:PS2K,PNP0f13:PS2M] at 0x60,0x64 irq 1,12
+[    1.520511] serio: i8042 KBD port at 0x60,0x64 irq 1
+[    1.520517] serio: i8042 AUX port at 0x60,0x64 irq 12
+[    1.520751] mousedev: PS/2 mouse device common for all mice
+[    1.522274] rtc_cmos 00:05: RTC can wake from S4
+[    1.522425] rtc_cmos 00:05: rtc core: registered rtc_cmos as rtc0
+[    1.522454] rtc_cmos 00:05: alarms up to one month, 242 bytes nvram, hpet irqs
+[    1.522510] device-mapper: uevent: version 1.0.3
+[    1.522597] device-mapper: ioctl: 4.27.0-ioctl (2013-10-30) initialised: dm-devel@redhat.com
+[    1.522604] ledtrig-cpu: registered to indicate activity on CPUs
+[    1.522699] TCP: cubic registered
+[    1.522766] NET: Registered protocol family 10
+[    1.522910] NET: Registered protocol family 17
+[    1.522917] Key type dns_resolver registered
+[    1.523256] Loading compiled-in X.509 certificates
+[    1.524163] Loaded X.509 cert 'Magrathea: Glacier signing key: 5e3c0f9ca6e36543535fa2bb5b709e84f16da7c7'
+[    1.524172] registered taskstats version 1
+[    1.527010] Key type trusted registered
+[    1.529514] Key type encrypted registered
+[    1.532086] AppArmor: AppArmor sha1 policy hashing enabled
+[    1.532089] IMA: No TPM chip found, activating TPM-bypass!
+[    1.532358] regulator-dummy: disabling
+[    1.532497]   Magic number: 15:434:928
+[    1.532598] rtc_cmos 00:05: setting system clock to 2015-01-23 08:55:39 UTC (1422003339)
+[    1.533915] BIOS EDD facility v0.16 2004-Jun-25, 0 devices found
+[    1.533916] EDD information not available.
+[    1.533948] PM: Hibernation image not present or could not be loaded.
+[    1.534672] Freeing unused kernel memory: 1336K (ffffffff81d1f000 - ffffffff81e6d000)
+[    1.534674] Write protecting the kernel read-only data: 12288k
+[    1.536357] Freeing unused kernel memory: 816K (ffff880001734000 - ffff880001800000)
+[    1.537778] Freeing unused kernel memory: 696K (ffff880001b52000 - ffff880001c00000)
+[    1.545890] input: AT Translated Set 2 keyboard as /devices/platform/i8042/serio0/input/input3
+[    1.547560] systemd-udevd[144]: starting version 204
+[    1.565513] ahci 0000:00:1f.2: version 3.0
+[    1.565624] ahci 0000:00:1f.2: irq 41 for MSI/MSI-X
+[    1.566553] r8169 Gigabit Ethernet driver 2.3LK-NAPI loaded
+[    1.566563] r8169 0000:01:00.0: can't disable ASPM; OS doesn't have ASPM control
+[    1.566770] r8169 0000:01:00.0: irq 42 for MSI/MSI-X
+[    1.566934] r8169 0000:01:00.0 eth0: RTL8105e at 0xffffc90010c8a000, e0:db:55:d1:92:34, XID 00c00000 IRQ 42
+[    1.580067] ahci 0000:00:1f.2: AHCI 0001.0300 32 slots 6 ports 6 Gbps 0x5 impl SATA mode
+[    1.580075] ahci 0000:00:1f.2: flags: 64bit ncq pm led clo pio slum part ems apst 
+[    1.588389] scsi0 : ahci
+[    1.588486] scsi1 : ahci
+[    1.588606] scsi2 : ahci
+[    1.588747] scsi3 : ahci
+[    1.588886] scsi4 : ahci
+[    1.589031] scsi5 : ahci
+[    1.589083] ata1: SATA max UDMA/133 abar m2048@0xc0617000 port 0xc0617100 irq 41
+[    1.589085] ata2: DUMMY
+[    1.589087] ata3: SATA max UDMA/133 abar m2048@0xc0617000 port 0xc0617200 irq 41
+[    1.589087] ata4: DUMMY
+[    1.589088] ata5: DUMMY
+[    1.589089] ata6: DUMMY
+[    1.787942] usb 1-1: new high-speed USB device number 2 using ehci-pci
+[    1.907751] ata3: SATA link up 1.5 Gbps (SStatus 113 SControl 300)
+[    1.907773] ata1: SATA link up 3.0 Gbps (SStatus 123 SControl 300)
+[    1.910483] ata3.00: ATAPI: HL-DT-ST DVD+-RW GT80N, A103, max UDMA/100
+[    1.915287] ata3.00: configured for UDMA/100
+[    1.920163] usb 1-1: New USB device found, idVendor=8087, idProduct=0024
+[    1.920171] usb 1-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[    1.920544] hub 1-1:1.0: USB hub found
+[    1.920665] hub 1-1:1.0: 6 ports detected
+[    1.936438] ata1.00: ATA-8: WDC WD10JPVT-75A1YT0, 01.01A01, max UDMA/133
+[    1.936444] ata1.00: 1953525168 sectors, multi 0: LBA48 NCQ (depth 31/32), AA
+[    1.937886] ata1.00: configured for UDMA/133
+[    1.938094] scsi 0:0:0:0: Direct-Access     ATA      WDC WD10JPVT-75A 01.0 PQ: 0 ANSI: 5
+[    1.938275] sd 0:0:0:0: [sda] 1953525168 512-byte logical blocks: (1.00 TB/931 GiB)
+[    1.938281] sd 0:0:0:0: [sda] 4096-byte physical blocks
+[    1.938332] sd 0:0:0:0: Attached scsi generic sg0 type 0
+[    1.938353] sd 0:0:0:0: [sda] Write Protect is off
+[    1.938357] sd 0:0:0:0: [sda] Mode Sense: 00 3a 00 00
+[    1.938382] sd 0:0:0:0: [sda] Write cache: enabled, read cache: enabled, doesn't support DPO or FUA
+[    1.941628] scsi 2:0:0:0: CD-ROM            HL-DT-ST DVD+-RW GT80N    A103 PQ: 0 ANSI: 5
+[    1.945964] sr0: scsi3-mmc drive: 24x/24x writer dvd-ram cd/rw xa/form2 cdda tray
+[    1.945968] cdrom: Uniform CD-ROM driver Revision: 3.20
+[    1.946145] sr 2:0:0:0: Attached scsi CD-ROM sr0
+[    1.946416] sr 2:0:0:0: Attached scsi generic sg1 type 5
+[    1.980873]  sda: sda1 sda2 sda3 sda4 sda5 sda6 sda7 sda8 sda9
+[    1.981641] sd 0:0:0:0: [sda] Attached SCSI disk
+[    2.023572] tsc: Refined TSC clocksource calibration: 2195.017 MHz
+[    2.031622] usb 2-1: new high-speed USB device number 2 using ehci-pci
+[    2.163730] usb 2-1: New USB device found, idVendor=8087, idProduct=0024
+[    2.163736] usb 2-1: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[    2.163987] hub 2-1:1.0: USB hub found
+[    2.164100] hub 2-1:1.0: 8 ports detected
+[    2.235398] usb 1-1.3: new high-speed USB device number 3 using ehci-pci
+[    2.328034] usb 1-1.3: New USB device found, idVendor=0bda, idProduct=0129
+[    2.328037] usb 1-1.3: New USB device strings: Mfr=1, Product=2, SerialNumber=3
+[    2.328038] usb 1-1.3: Product: USB2.0-CRW
+[    2.328039] usb 1-1.3: Manufacturer: Generic
+[    2.328040] usb 1-1.3: SerialNumber: 20100201396000000
+[    2.399218] usb 1-1.5: new high-speed USB device number 4 using ehci-pci
+[    2.555034] usb 1-1.5: New USB device found, idVendor=0c45, idProduct=648d
+[    2.555041] usb 1-1.5: New USB device strings: Mfr=2, Product=1, SerialNumber=0
+[    2.555052] usb 1-1.5: Product: Laptop_Integrated_Webcam_HD
+[    2.555054] usb 1-1.5: Manufacturer: 1234567890-2S7
+[    2.630996] usb 2-1.5: new full-speed USB device number 3 using ehci-pci
+[    2.727385] usb 2-1.5: New USB device found, idVendor=8087, idProduct=07da
+[    2.727389] usb 2-1.5: New USB device strings: Mfr=0, Product=0, SerialNumber=0
+[    2.769113] psmouse serio1: elantech: assuming hardware version 3 (with firmware version 0x450f02)
+[    2.800550] psmouse serio1: elantech: Synaptics capabilities query result 0x79, 0x17, 0x0c.
+[    2.959689] input: ETPS/2 Elantech Touchpad as /devices/platform/i8042/serio1/input/input5
+[    3.022767] Switched to clocksource tsc
+[    3.163296] random: nonblocking pool is initialized
+[    3.979107] EXT4-fs (sda9): mounted filesystem with ordered data mode. Opts: (null)
+[   13.421409] Adding 4001788k swap on /dev/sda8.  Priority:-1 extents:1 across:4001788k FS
+[   13.477721] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[   13.521403] systemd-udevd[337]: starting version 204
+[   13.583417] lp: driver loaded but no devices found
+[   13.587890] ppdev: user-space parallel port driver
+[   13.720569] wmi: Mapper loaded
+[   13.725633] mei_me 0000:00:16.0: irq 43 for MSI/MSI-X
+[   13.729581] [drm] Initialized drm 1.1.0 20060810
+[   13.731957] ACPI Warning: 0x0000000000000428-0x000000000000042f SystemIO conflicts with Region \PMIO 1 (20131115/utaddress-251)
+[   13.731963] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[   13.731968] ACPI Warning: 0x0000000000000530-0x000000000000053f SystemIO conflicts with Region \GPIO 1 (20131115/utaddress-251)
+[   13.731971] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[   13.731973] ACPI Warning: 0x0000000000000500-0x000000000000052f SystemIO conflicts with Region \GPIO 1 (20131115/utaddress-251)
+[   13.731976] ACPI: If an ACPI driver is available for this device, you should use it instead of the native driver
+[   13.731978] lpc_ich: Resource conflict(s) found affecting gpio_ich
+[   13.735281] Bluetooth: Core ver 2.17
+[   13.735299] NET: Registered protocol family 31
+[   13.735300] Bluetooth: HCI device and connection manager initialized
+[   13.735307] Bluetooth: HCI socket layer initialized
+[   13.735310] Bluetooth: L2CAP socket layer initialized
+[   13.735313] Bluetooth: SCO socket layer initialized
+[   13.737111] cfg80211: Calling CRDA to update world regulatory domain
+[   13.740048] usbcore: registered new interface driver btusb
+[   13.740797] Intel(R) Wireless WiFi driver for Linux, in-tree:
+[   13.740799] Copyright(c) 2003-2013 Intel Corporation
+[   13.740939] iwlwifi 0000:02:00.0: can't disable ASPM; OS doesn't have ASPM control
+[   13.741059] iwlwifi 0000:02:00.0: irq 44 for MSI/MSI-X
+[   13.747525] [drm] Memory usable by graphics device = 2048M
+[   13.747530] checking generic (b0000000 410000) vs hw (b0000000 10000000)
+[   13.747531] fb: conflicting fb hw usage inteldrmfb vs VESA VGA - removing generic driver
+[   13.747548] Console: switching to colour dummy device 80x25
+[   13.786235] type=1400 audit(1422003351.761:2): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/sbin/dhclient" pid=438 comm="apparmor_parser"
+[   13.786243] type=1400 audit(1422003351.761:3): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=438 comm="apparmor_parser"
+[   13.786248] type=1400 audit(1422003351.761:4): apparmor="STATUS" operation="profile_load" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=438 comm="apparmor_parser"
+[   13.786728] type=1400 audit(1422003351.765:5): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=438 comm="apparmor_parser"
+[   13.786734] type=1400 audit(1422003351.765:6): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=438 comm="apparmor_parser"
+[   13.786976] type=1400 audit(1422003351.765:7): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=438 comm="apparmor_parser"
+[   13.792183] dcdbas dcdbas: Dell Systems Management Base Driver (version 5.6.0-3.2)
+[   13.806035] input: Dell WMI hotkeys as /devices/virtual/input/input6
+[   13.809979] i915 0000:00:02.0: irq 45 for MSI/MSI-X
+[   13.809990] [drm] Supports vblank timestamp caching Rev 2 (21.10.2013).
+[   13.809992] [drm] Driver supports precise vblank timestamp query.
+[   13.810098] vgaarb: device changed decodes: PCI:0000:00:02.0,olddecodes=io+mem,decodes=io+mem:owns=io+mem
+[   13.811968] type=1400 audit(1422003351.789:8): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/sbin/dhclient" pid=466 comm="apparmor_parser"
+[   13.811974] type=1400 audit(1422003351.789:9): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=466 comm="apparmor_parser"
+[   13.811978] type=1400 audit(1422003351.789:10): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/connman/scripts/dhclient-script" pid=466 comm="apparmor_parser"
+[   13.812317] type=1400 audit(1422003351.789:11): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/NetworkManager/nm-dhcp-client.action" pid=466 comm="apparmor_parser"
+[   13.856135] fbcon: inteldrmfb (fb0) is primary device
+[   13.884317] iwlwifi 0000:02:00.0: loaded firmware version 18.168.6.1 op_mode iwldvm
+[   13.896790] iwlwifi 0000:02:00.0: CONFIG_IWLWIFI_DEBUG disabled
+[   13.896791] iwlwifi 0000:02:00.0: CONFIG_IWLWIFI_DEBUGFS enabled
+[   13.896791] iwlwifi 0000:02:00.0: CONFIG_IWLWIFI_DEVICE_TRACING enabled
+[   13.896792] iwlwifi 0000:02:00.0: Detected Intel(R) Centrino(R) Wireless-N 2230 BGN, REV=0xC8
+[   13.896886] iwlwifi 0000:02:00.0: L1 Enabled; Disabling L0S
+[   13.916148] ieee80211 phy0: Selected rate control algorithm 'iwl-agn-rs'
+[   14.048618] cfg80211: World regulatory domain updated:
+[   14.048619] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+[   14.048621] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[   14.048622] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[   14.048622] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+[   14.048622] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[   14.048623] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[   14.119930] Linux video capture interface: v2.00
+[   14.120033] rts5139: module is from the staging directory, the quality is unknown, you have been warned.
+[   14.123407] scsi6 : SCSI emulation for RTS5139 USB card reader
+[   14.123479] usbcore: registered new interface driver rts5139
+[   14.123512] scsi 6:0:0:0: Direct-Access     Generic- xD/SD/M.S.       1.00 PQ: 0 ANSI: 0 CCS
+[   14.124058] sd 6:0:0:0: Attached scsi generic sg2 type 0
+[   14.124460] uvcvideo: Found UVC 1.00 device Laptop_Integrated_Webcam_HD (0c45:648d)
+[   14.149036] input: Laptop_Integrated_Webcam_HD as /devices/pci0000:00/0000:00:1a.0/usb1/1-1/1-1.5/1-1.5:1.0/input/input7
+[   14.149159] usbcore: registered new interface driver uvcvideo
+[   14.149160] USB Video Class driver (1.1.1)
+[   14.190772] sd 6:0:0:0: [sdb] Attached SCSI removable disk
+[   14.573933] Console: switching to colour frame buffer device 170x48
+[   14.575884] i915 0000:00:02.0: fb0: inteldrmfb frame buffer device
+[   14.575885] i915 0000:00:02.0: registered panic notifier
+[   14.578285] ACPI: Video Device [GFX0] (multi-head: yes  rom: no  post: no)
+[   14.578418] acpi device:33: registered as cooling_device9
+[   14.578489] input: Video Bus as /devices/LNXSYSTM:00/device:00/PNP0A08:00/LNXVIDEO:00/input/input8
+[   14.578630] [drm] Initialized i915 1.6.0 20080730 for 0000:00:02.0 on minor 0
+[   14.578830] snd_hda_intel 0000:00:1b.0: irq 46 for MSI/MSI-X
+[   14.590602] hda_codec: CX20590: BIOS auto-probing.
+[   14.591036] autoconfig: line_outs=1 (0x1f/0x0/0x0/0x0/0x0) type:speaker
+[   14.591038]    speaker_outs=0 (0x0/0x0/0x0/0x0/0x0)
+[   14.591038]    hp_outs=1 (0x19/0x0/0x0/0x0/0x0)
+[   14.591039]    mono: mono_out=0x0
+[   14.591040]    inputs:
+[   14.591041]      Internal Mic=0x23
+[   14.591042]      Mic=0x1a
+[   14.591906] hda_codec: Enable sync_write for stable communication
+[   14.596876] input: HDA Intel PCH HDMI/DP,pcm=3 as /devices/pci0000:00/0000:00:1b.0/sound/card0/input11
+[   14.596955] input: HDA Intel PCH Headphone as /devices/pci0000:00/0000:00:1b.0/sound/card0/input10
+[   14.597024] input: HDA Intel PCH Mic as /devices/pci0000:00/0000:00:1b.0/sound/card0/input9
+[   14.791956] EXT4-fs (sda9): re-mounted. Opts: errors=remount-ro
+[   15.157215] init: failsafe main process (660) killed by TERM signal
+[   15.558129] Bluetooth: RFCOMM TTY layer initialized
+[   15.558138] Bluetooth: RFCOMM socket layer initialized
+[   15.558141] Bluetooth: RFCOMM ver 1.11
+[   15.733740] init: cups main process (746) killed by HUP signal
+[   15.733750] init: cups main process ended, respawning
+[   15.762195] Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+[   15.762198] Bluetooth: BNEP filters: protocol multicast
+[   15.762205] Bluetooth: BNEP socket layer initialized
+[   15.820738] [drm] Enabling RC6 states: RC6 on, RC6p on, RC6pp off
+[   17.181947] r8169 0000:01:00.0 eth0: link down
+[   17.181982] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[   17.182296] IPv6: ADDRCONF(NETDEV_UP): eth0: link is not ready
+[   17.183965] iwlwifi 0000:02:00.0: L1 Enabled; Disabling L0S
+[   17.191584] iwlwifi 0000:02:00.0: Radio type=0x2-0x0-0x0
+[   17.434087] iwlwifi 0000:02:00.0: L1 Enabled; Disabling L0S
+[   17.441749] iwlwifi 0000:02:00.0: Radio type=0x2-0x0-0x0
+[   17.520269] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+[   17.520823] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+[   20.051465] init: plymouth-upstart-bridge main process ended, respawning
+[   20.113161] init: plymouth-upstart-bridge main process ended, respawning
+[   45.511001] audit_printk_skb: 168 callbacks suppressed
+[   45.511004] type=1400 audit(1422003383.521:68): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=2294 comm="apparmor_parser"
+[   45.511010] type=1400 audit(1422003383.521:69): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=2294 comm="apparmor_parser"
+[   45.511348] type=1400 audit(1422003383.521:70): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=2294 comm="apparmor_parser"
+[  148.244339] systemd-hostnamed[2412]: Warning: nss-myhostname is not installed. Changing the local hostname might make it unresolveable. Please install nss-myhostname!
+[  173.236711] wlan0: authenticate with 00:1f:33:c1:7a:16
+[  173.241576] wlan0: send auth to 00:1f:33:c1:7a:16 (try 1/3)
+[  173.243993] wlan0: authenticated
+[  173.244211] iwlwifi 0000:02:00.0 wlan0: disabling HT/VHT due to WEP/TKIP use
+[  173.244218] iwlwifi 0000:02:00.0 wlan0: disabling HT as WMM/QoS is not supported by the AP
+[  173.244221] iwlwifi 0000:02:00.0 wlan0: disabling VHT as WMM/QoS is not supported by the AP
+[  173.247757] wlan0: associate with 00:1f:33:c1:7a:16 (try 1/3)
+[  173.250232] wlan0: RX AssocResp from 00:1f:33:c1:7a:16 (capab=0x431 status=0 aid=7)
+[  173.254598] wlan0: associated
+[  173.254647] IPv6: ADDRCONF(NETDEV_CHANGE): wlan0: link becomes ready
+[ 1010.130951] systemd-hostnamed[3908]: Warning: nss-myhostname is not installed. Changing the local hostname might make it unresolveable. Please install nss-myhostname!
+[ 1386.142607] type=1400 audit(1422004726.726:71): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/lib/cups/backend/cups-pdf" pid=4330 comm="apparmor_parser"
+[ 1386.142616] type=1400 audit(1422004726.726:72): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=4330 comm="apparmor_parser"
+[ 1386.143081] type=1400 audit(1422004726.726:73): apparmor="STATUS" operation="profile_replace" profile="unconfined" name="/usr/sbin/cupsd" pid=4330 comm="apparmor_parser"
+[ 9662.351206] cfg80211: Calling CRDA to update world regulatory domain
+[ 9662.356352] cfg80211: World regulatory domain updated:
+[ 9662.356358] cfg80211:   (start_freq - end_freq @ bandwidth), (max_antenna_gain, max_eirp)
+[ 9662.356362] cfg80211:   (2402000 KHz - 2472000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[ 9662.356365] cfg80211:   (2457000 KHz - 2482000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[ 9662.356367] cfg80211:   (2474000 KHz - 2494000 KHz @ 20000 KHz), (300 mBi, 2000 mBm)
+[ 9662.356369] cfg80211:   (5170000 KHz - 5250000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[ 9662.356372] cfg80211:   (5735000 KHz - 5835000 KHz @ 40000 KHz), (300 mBi, 2000 mBm)
+[ 9662.937040] wlan0: authenticate with 00:1f:33:c1:7a:16
+[ 9662.941243] wlan0: send auth to 00:1f:33:c1:7a:16 (try 1/3)
+[ 9662.963836] wlan0: send auth to 00:1f:33:c1:7a:16 (try 2/3)
+[ 9662.986828] wlan0: send auth to 00:1f:33:c1:7a:16 (try 3/3)
+[ 9663.014563] wlan0: authentication with 00:1f:33:c1:7a:16 timed out
+[ 9677.661401] IPv6: ADDRCONF(NETDEV_UP): wlan0: link is not ready
+             total       used       free     shared    buffers     cached
+Mem:          7860       3818       4041        334         98       1511
+-/+ buffers/cache:       2208       5652
+Swap:         3907          0       3907
+
