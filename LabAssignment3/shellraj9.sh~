@@ -1,0 +1,22 @@
+# 9. Write a shell script that asks the capital of Gujarat and repeats the question until the user gives correct answer.
+
+counter=1
+while [ $counter = 1 ]
+do
+	echo " What is the capital of gujarat [Samllcase] :"
+	read name	
+	if [ "$name" == 'ahmedabad' ];
+		then
+			echo 'Correct'
+			counter=0
+	elif [ "$a" == 'amdavad' ];
+		then
+			echo 'Correct'
+			counter=0
+	else 
+			echo 'Wrong'
+	fi
+done
+	
+	
+	
